@@ -1,0 +1,1889 @@
+season,team,player,matches_played,batter,avg_runs_per_match,strike_rate
+2008.0,Chennai Super Kings,CK Kapugedera,3,CK Kapugedera,5.33,66.67
+2008.0,Chennai Super Kings,JA Morkel,10,JA Morkel,24.1,143.45
+2008.0,Chennai Super Kings,MEK Hussey,3,MEK Hussey,56.0,168.0
+2008.0,Chennai Super Kings,ML Hayden,4,ML Hayden,47.25,140.0
+2008.0,Chennai Super Kings,MS Dhoni,14,MS Dhoni,29.57,129.78
+2008.0,Chennai Super Kings,MS Gony,5,MS Gony,7.0,140.0
+2008.0,Chennai Super Kings,PA Patel,13,PA Patel,23.23,95.87
+2008.0,Chennai Super Kings,S Badrinath,11,S Badrinath,17.45,139.13
+2008.0,Chennai Super Kings,S Vidyut,8,S Vidyut,18.12,126.09
+2008.0,Chennai Super Kings,SK Raina,14,SK Raina,30.07,138.49
+2008.0,Chennai Super Kings,SP Fleming,10,SP Fleming,19.6,114.62
+2008.0,Deccan Chargers,A Symonds,3,A Symonds,53.67,145.05
+2008.0,Deccan Chargers,AC Gilchrist,14,AC Gilchrist,31.14,132.93
+2008.0,Deccan Chargers,AS Yadav,6,AS Yadav,8.17,122.5
+2008.0,Deccan Chargers,DB Ravi Teja,6,DB Ravi Teja,18.17,128.24
+2008.0,Deccan Chargers,HH Gibbs,9,HH Gibbs,18.56,105.03
+2008.0,Deccan Chargers,LPC Silva,3,LPC Silva,13.33,148.15
+2008.0,Deccan Chargers,PP Ojha,3,PP Ojha,0.67,50.0
+2008.0,Deccan Chargers,RG Sharma,12,RG Sharma,33.67,146.38
+2008.0,Deccan Chargers,RP Singh,9,RP Singh,3.0,108.0
+2008.0,Deccan Chargers,SB Bangar,6,SB Bangar,7.83,95.92
+2008.0,Deccan Chargers,SB Styris,8,SB Styris,14.0,90.32
+2008.0,Deccan Chargers,Shahid Afridi,9,Shahid Afridi,9.0,176.09
+2008.0,Deccan Chargers,VVS Laxman,6,VVS Laxman,25.83,115.67
+2008.0,Deccan Chargers,WPUJC Vaas,4,WPUJC Vaas,5.25,116.67
+2008.0,Deccan Chargers,Y Venugopal Rao,10,Y Venugopal Rao,28.8,132.72
+2008.0,Delhi Daredevils,A Mishra,3,A Mishra,12.33,88.1
+2008.0,Delhi Daredevils,AB de Villiers,6,AB de Villiers,15.83,95.0
+2008.0,Delhi Daredevils,G Gambhir,14,G Gambhir,38.14,135.53
+2008.0,Delhi Daredevils,KD Karthik,8,KD Karthik,18.12,134.26
+2008.0,Delhi Daredevils,MF Maharoof,8,MF Maharoof,15.62,158.23
+2008.0,Delhi Daredevils,MK Tiwary,7,MK Tiwary,14.86,119.54
+2008.0,Delhi Daredevils,R Bhatia,3,R Bhatia,11.33,121.43
+2008.0,Delhi Daredevils,S Dhawan,14,S Dhawan,24.29,110.39
+2008.0,Delhi Daredevils,Shoaib Malik,5,Shoaib Malik,10.4,106.12
+2008.0,Delhi Daredevils,TM Dilshan,7,TM Dilshan,14.86,131.65
+2008.0,Delhi Daredevils,V Sehwag,14,V Sehwag,29.0,177.29
+2008.0,Delhi Daredevils,VY Mahesh,5,VY Mahesh,3.0,53.57
+2008.0,Kings XI Punjab,B Lee,3,B Lee,5.67,121.43
+2008.0,Kings XI Punjab,DPMD Jayawardene,12,DPMD Jayawardene,14.92,129.71
+2008.0,Kings XI Punjab,IK Pathan,10,IK Pathan,13.1,109.17
+2008.0,Kings XI Punjab,JR Hopes,11,JR Hopes,20.09,145.39
+2008.0,Kings XI Punjab,K Goel,6,K Goel,12.67,96.2
+2008.0,Kings XI Punjab,KC Sangakkara,9,KC Sangakkara,35.56,154.59
+2008.0,Kings XI Punjab,LA Pomersbach,5,LA Pomersbach,30.4,150.5
+2008.0,Kings XI Punjab,PP Chawla,7,PP Chawla,12.86,147.54
+2008.0,Kings XI Punjab,RR Sarwan,4,RR Sarwan,18.25,93.59
+2008.0,Kings XI Punjab,SE Marsh,11,SE Marsh,56.0,136.28
+2008.0,Kings XI Punjab,Yuvraj Singh,14,Yuvraj Singh,21.36,156.54
+2008.0,Kolkata Knight Riders,A Chopra,5,A Chopra,8.4,76.36
+2008.0,Kolkata Knight Riders,AB Agarkar,6,AB Agarkar,9.0,110.2
+2008.0,Kolkata Knight Riders,BB McCullum,4,BB McCullum,47.0,195.83
+2008.0,Kolkata Knight Riders,BJ Hodge,3,BJ Hodge,4.0,66.67
+2008.0,Kolkata Knight Riders,DB Das,6,DB Das,17.17,108.42
+2008.0,Kolkata Knight Riders,DJ Hussey,13,DJ Hussey,24.54,119.48
+2008.0,Kolkata Knight Riders,I Sharma,5,I Sharma,2.2,100.0
+2008.0,Kolkata Knight Riders,LR Shukla,12,LR Shukla,13.58,128.35
+2008.0,Kolkata Knight Riders,M Kartik,3,M Kartik,10.0,107.14
+2008.0,Kolkata Knight Riders,Mohammad Hafeez,8,Mohammad Hafeez,8.0,76.19
+2008.0,Kolkata Knight Riders,RT Ponting,4,RT Ponting,9.75,73.58
+2008.0,Kolkata Knight Riders,SC Ganguly,13,SC Ganguly,26.85,107.72
+2008.0,Kolkata Knight Riders,Salman Butt,7,Salman Butt,27.57,112.21
+2008.0,Kolkata Knight Riders,T Taibu,3,T Taibu,10.33,119.23
+2008.0,Kolkata Knight Riders,Umar Gul,4,Umar Gul,9.75,205.26
+2008.0,Kolkata Knight Riders,WP Saha,10,WP Saha,15.9,133.61
+2008.0,Mumbai Indians,A Nehra,3,A Nehra,1.0,23.08
+2008.0,Mumbai Indians,AM Nayar,10,AM Nayar,20.6,145.07
+2008.0,Mumbai Indians,DJ Bravo,7,DJ Bravo,25.43,129.93
+2008.0,Mumbai Indians,DJ Thornely,4,DJ Thornely,9.75,72.22
+2008.0,Mumbai Indians,DR Smith,3,DR Smith,15.0,109.76
+2008.0,Mumbai Indians,Harbhajan Singh,3,Harbhajan Singh,10.0,176.47
+2008.0,Mumbai Indians,L Ronchi,4,L Ronchi,8.5,100.0
+2008.0,Mumbai Indians,MA Khote,3,MA Khote,8.0,109.09
+2008.0,Mumbai Indians,PR Shah,4,PR Shah,8.5,89.47
+2008.0,Mumbai Indians,RR Raje,3,RR Raje,2.67,88.89
+2008.0,Mumbai Indians,RV Uthappa,14,RV Uthappa,22.86,109.97
+2008.0,Mumbai Indians,SM Pollock,8,SM Pollock,18.38,126.72
+2008.0,Mumbai Indians,SR Tendulkar,7,SR Tendulkar,26.86,99.47
+2008.0,Mumbai Indians,ST Jayasuriya,14,ST Jayasuriya,36.71,154.35
+2008.0,Mumbai Indians,YV Takawale,4,YV Takawale,17.5,101.45
+2008.0,Rajasthan Royals,D Salunkhe,3,D Salunkhe,11.0,137.5
+2008.0,Rajasthan Royals,GC Smith,11,GC Smith,40.09,117.6
+2008.0,Rajasthan Royals,Kamran Akmal,6,Kamran Akmal,21.33,164.1
+2008.0,Rajasthan Royals,M Kaif,14,M Kaif,12.57,100.0
+2008.0,Rajasthan Royals,M Rawat,7,M Rawat,4.86,87.18
+2008.0,Rajasthan Royals,NK Patel,4,NK Patel,25.75,124.1
+2008.0,Rajasthan Royals,RA Jadeja,9,RA Jadeja,15.0,125.0
+2008.0,Rajasthan Royals,SA Asnodkar,9,SA Asnodkar,34.56,129.05
+2008.0,Rajasthan Royals,SK Trivedi,3,SK Trivedi,1.67,41.67
+2008.0,Rajasthan Royals,SK Warne,7,SK Warne,10.0,116.67
+2008.0,Rajasthan Royals,SR Watson,15,SR Watson,31.47,146.58
+2008.0,Rajasthan Royals,Sohail Tanvir,5,Sohail Tanvir,7.2,116.13
+2008.0,Rajasthan Royals,YK Pathan,15,YK Pathan,29.0,171.94
+2008.0,Royal Challengers Bangalore,A Kumble,4,A Kumble,3.25,76.47
+2008.0,Royal Challengers Bangalore,B Akhil,7,B Akhil,6.57,143.75
+2008.0,Royal Challengers Bangalore,B Chipli,3,B Chipli,6.67,66.67
+2008.0,Royal Challengers Bangalore,CL White,8,CL White,14.25,108.57
+2008.0,Royal Challengers Bangalore,J Arunkumar,3,J Arunkumar,7.67,95.83
+2008.0,Royal Challengers Bangalore,JH Kallis,11,JH Kallis,18.09,105.85
+2008.0,Royal Challengers Bangalore,LRPL Taylor,4,LRPL Taylor,37.25,175.29
+2008.0,Royal Challengers Bangalore,MV Boucher,10,MV Boucher,22.5,124.31
+2008.0,Royal Challengers Bangalore,Misbah-ul-Haq,8,Misbah-ul-Haq,14.62,142.68
+2008.0,Royal Challengers Bangalore,P Kumar,12,P Kumar,9.33,112.0
+2008.0,Royal Challengers Bangalore,R Dravid,14,R Dravid,26.5,124.08
+2008.0,Royal Challengers Bangalore,R Vinay Kumar,4,R Vinay Kumar,6.25,89.29
+2008.0,Royal Challengers Bangalore,S Chanderpaul,3,S Chanderpaul,8.33,75.76
+2008.0,Royal Challengers Bangalore,SP Goswami,3,SP Goswami,27.33,95.35
+2008.0,Royal Challengers Bangalore,V Kohli,12,V Kohli,13.75,98.21
+2008.0,Royal Challengers Bangalore,W Jaffer,6,W Jaffer,19.17,104.55
+2008.0,Royal Challengers Bangalore,Z Khan,7,Z Khan,4.86,79.07
+2009.0,Chennai Super Kings,A Flintoff,3,A Flintoff,20.67,108.77
+2009.0,Chennai Super Kings,JA Morkel,10,JA Morkel,9.7,132.88
+2009.0,Chennai Super Kings,JDP Oram,8,JDP Oram,11.0,93.62
+2009.0,Chennai Super Kings,L Balaji,3,L Balaji,1.33,40.0
+2009.0,Chennai Super Kings,M Muralitharan,4,M Muralitharan,2.0,100.0
+2009.0,Chennai Super Kings,M Vijay,4,M Vijay,15.0,86.96
+2009.0,Chennai Super Kings,ML Hayden,12,ML Hayden,47.67,139.85
+2009.0,Chennai Super Kings,MS Dhoni,13,MS Dhoni,25.54,122.96
+2009.0,Chennai Super Kings,PA Patel,9,PA Patel,15.78,108.4
+2009.0,Chennai Super Kings,S Badrinath,11,S Badrinath,16.09,106.63
+2009.0,Chennai Super Kings,SK Raina,14,SK Raina,31.0,136.48
+2009.0,Deccan Chargers,A Symonds,8,A Symonds,31.12,145.61
+2009.0,Deccan Chargers,AA Bilakhia,6,AA Bilakhia,11.17,79.76
+2009.0,Deccan Chargers,AC Gilchrist,16,AC Gilchrist,30.94,146.88
+2009.0,Deccan Chargers,DB Ravi Teja,6,DB Ravi Teja,10.83,91.55
+2009.0,Deccan Chargers,DR Smith,8,DR Smith,26.88,160.45
+2009.0,Deccan Chargers,HH Gibbs,14,HH Gibbs,26.5,107.85
+2009.0,Deccan Chargers,PP Ojha,4,PP Ojha,0.25,14.29
+2009.0,Deccan Chargers,RG Sharma,16,RG Sharma,22.62,112.07
+2009.0,Deccan Chargers,RJ Harris,5,RJ Harris,4.2,116.67
+2009.0,Deccan Chargers,RP Singh,5,RP Singh,1.6,47.06
+2009.0,Deccan Chargers,Shoaib Ahmed,3,Shoaib Ahmed,0.33,16.67
+2009.0,Deccan Chargers,TL Suman,12,TL Suman,19.75,122.8
+2009.0,Deccan Chargers,VVS Laxman,5,VVS Laxman,3.8,57.58
+2009.0,Deccan Chargers,Y Venugopal Rao,12,Y Venugopal Rao,10.33,105.08
+2009.0,Delhi Daredevils,A Mishra,5,A Mishra,5.2,130.0
+2009.0,Delhi Daredevils,AB de Villiers,13,AB de Villiers,35.77,129.53
+2009.0,Delhi Daredevils,DA Warner,7,DA Warner,23.29,118.98
+2009.0,Delhi Daredevils,DL Vettori,3,DL Vettori,11.33,106.25
+2009.0,Delhi Daredevils,G Gambhir,15,G Gambhir,19.07,101.06
+2009.0,Delhi Daredevils,KD Karthik,13,KD Karthik,22.15,128.57
+2009.0,Delhi Daredevils,M Manhas,6,M Manhas,12.5,115.38
+2009.0,Delhi Daredevils,PJ Sangwan,4,PJ Sangwan,1.5,60.0
+2009.0,Delhi Daredevils,R Bhatia,5,R Bhatia,1.6,44.44
+2009.0,Delhi Daredevils,TM Dilshan,13,TM Dilshan,32.15,117.09
+2009.0,Delhi Daredevils,V Sehwag,11,V Sehwag,18.0,135.62
+2009.0,Kings XI Punjab,B Lee,4,B Lee,7.0,80.0
+2009.0,Kings XI Punjab,DPMD Jayawardene,10,DPMD Jayawardene,21.9,127.33
+2009.0,Kings XI Punjab,IK Pathan,12,IK Pathan,16.33,119.51
+2009.0,Kings XI Punjab,K Goel,8,K Goel,15.5,88.57
+2009.0,Kings XI Punjab,KC Sangakkara,13,KC Sangakkara,25.54,100.0
+2009.0,Kings XI Punjab,LA Pomersbach,4,LA Pomersbach,10.25,83.67
+2009.0,Kings XI Punjab,PP Chawla,8,PP Chawla,3.88,79.49
+2009.0,Kings XI Punjab,RR Powar,3,RR Powar,7.67,104.55
+2009.0,Kings XI Punjab,RS Bopara,5,RS Bopara,27.6,111.29
+2009.0,Kings XI Punjab,S Sohal,8,S Sohal,14.38,112.75
+2009.0,Kings XI Punjab,SM Katich,9,SM Katich,16.11,121.85
+2009.0,Kings XI Punjab,WA Mota,6,WA Mota,5.0,62.5
+2009.0,Kings XI Punjab,Yuvraj Singh,14,Yuvraj Singh,24.29,107.26
+2009.0,Kolkata Knight Riders,AB Agarkar,5,AB Agarkar,13.2,113.79
+2009.0,Kolkata Knight Riders,BB McCullum,13,BB McCullum,22.0,115.32
+2009.0,Kolkata Knight Riders,BJ Hodge,12,BJ Hodge,30.42,115.14
+2009.0,Kolkata Knight Riders,CH Gayle,7,CH Gayle,26.29,115.72
+2009.0,Kolkata Knight Riders,DJ Hussey,4,DJ Hussey,24.5,160.66
+2009.0,Kolkata Knight Riders,I Sharma,3,I Sharma,5.33,123.08
+2009.0,Kolkata Knight Riders,LR Shukla,6,LR Shukla,13.83,96.51
+2009.0,Kolkata Knight Riders,MC Henriques,3,MC Henriques,12.67,95.0
+2009.0,Kolkata Knight Riders,MN van Wyk,5,MN van Wyk,33.4,123.7
+2009.0,Kolkata Knight Riders,SC Ganguly,11,SC Ganguly,17.18,88.73
+2009.0,Kolkata Knight Riders,WP Saha,7,WP Saha,10.29,175.61
+2009.0,Kolkata Knight Riders,Yashpal Singh,4,Yashpal Singh,11.75,70.15
+2009.0,Mumbai Indians,AM Nayar,11,AM Nayar,17.55,124.52
+2009.0,Mumbai Indians,AM Rahane,7,AM Rahane,20.57,112.5
+2009.0,Mumbai Indians,DJ Bravo,10,DJ Bravo,21.8,103.32
+2009.0,Mumbai Indians,DS Kulkarni,3,DS Kulkarni,3.0,50.0
+2009.0,Mumbai Indians,Harbhajan Singh,10,Harbhajan Singh,8.4,147.37
+2009.0,Mumbai Indians,JP Duminy,12,JP Duminy,31.0,111.38
+2009.0,Mumbai Indians,PR Shah,4,PR Shah,13.25,98.15
+2009.0,Mumbai Indians,S Dhawan,4,S Dhawan,10.0,86.96
+2009.0,Mumbai Indians,SR Tendulkar,13,SR Tendulkar,28.0,115.56
+2009.0,Mumbai Indians,SS Tiwary,3,SS Tiwary,4.33,108.33
+2009.0,Mumbai Indians,ST Jayasuriya,12,ST Jayasuriya,18.42,107.8
+2009.0,Mumbai Indians,Z Khan,3,Z Khan,2.67,72.73
+2009.0,Rajasthan Royals,AD Mascarenhas,4,AD Mascarenhas,9.75,100.0
+2009.0,Rajasthan Royals,AS Raut,7,AS Raut,11.14,120.0
+2009.0,Rajasthan Royals,GC Smith,12,GC Smith,17.67,95.5
+2009.0,Rajasthan Royals,J Botha,3,J Botha,15.67,111.9
+2009.0,Rajasthan Royals,LA Carseldine,5,LA Carseldine,16.2,114.08
+2009.0,Rajasthan Royals,M Rawat,3,M Rawat,5.33,80.0
+2009.0,Rajasthan Royals,MM Patel,5,MM Patel,6.6,126.92
+2009.0,Rajasthan Royals,NV Ojha,8,NV Ojha,21.0,115.86
+2009.0,Rajasthan Royals,RA Jadeja,13,RA Jadeja,22.69,106.88
+2009.0,Rajasthan Royals,RJ Quiney,7,RJ Quiney,14.71,98.1
+2009.0,Rajasthan Royals,SA Asnodkar,8,SA Asnodkar,12.25,100.0
+2009.0,Rajasthan Royals,SK Trivedi,3,SK Trivedi,3.0,47.37
+2009.0,Rajasthan Royals,SK Warne,10,SK Warne,10.8,91.53
+2009.0,Rajasthan Royals,YK Pathan,13,YK Pathan,20.08,135.94
+2009.0,Royal Challengers Bangalore,A Kumble,6,A Kumble,2.67,80.0
+2009.0,Royal Challengers Bangalore,B Akhil,3,B Akhil,5.67,106.25
+2009.0,Royal Challengers Bangalore,JD Ryder,5,JD Ryder,11.2,114.29
+2009.0,Royal Challengers Bangalore,JH Kallis,15,JH Kallis,24.07,103.44
+2009.0,Royal Challengers Bangalore,KP Pietersen,6,KP Pietersen,15.5,104.49
+2009.0,Royal Challengers Bangalore,LRPL Taylor,11,LRPL Taylor,25.45,132.7
+2009.0,Royal Challengers Bangalore,MK Pandey,4,MK Pandey,42.0,140.0
+2009.0,Royal Challengers Bangalore,MV Boucher,9,MV Boucher,16.67,123.97
+2009.0,Royal Challengers Bangalore,P Kumar,8,P Kumar,8.12,141.3
+2009.0,Royal Challengers Bangalore,R Bishnoi,3,R Bishnoi,6.33,111.76
+2009.0,Royal Challengers Bangalore,R Dravid,12,R Dravid,22.58,113.39
+2009.0,Royal Challengers Bangalore,R Vinay Kumar,7,R Vinay Kumar,6.71,106.82
+2009.0,Royal Challengers Bangalore,RE van der Merwe,8,RE van der Merwe,15.25,120.79
+2009.0,Royal Challengers Bangalore,RV Uthappa,13,RV Uthappa,13.46,98.87
+2009.0,Royal Challengers Bangalore,V Kohli,13,V Kohli,18.92,109.33
+2010.0,Chennai Super Kings,JA Morkel,11,JA Morkel,18.09,147.41
+2010.0,Chennai Super Kings,L Balaji,3,L Balaji,6.0,90.0
+2010.0,Chennai Super Kings,M Vijay,15,M Vijay,30.53,150.16
+2010.0,Chennai Super Kings,MEK Hussey,3,MEK Hussey,12.33,84.09
+2010.0,Chennai Super Kings,ML Hayden,16,ML Hayden,21.62,117.29
+2010.0,Chennai Super Kings,MS Dhoni,11,MS Dhoni,26.09,133.49
+2010.0,Chennai Super Kings,PA Patel,4,PA Patel,18.0,86.75
+2010.0,Chennai Super Kings,R Ashwin,6,R Ashwin,5.0,75.0
+2010.0,Chennai Super Kings,S Badrinath,15,S Badrinath,23.73,114.84
+2010.0,Chennai Super Kings,SK Raina,16,SK Raina,33.0,136.43
+2010.0,Deccan Chargers,A Symonds,16,A Symonds,26.81,120.51
+2010.0,Deccan Chargers,AC Gilchrist,16,AC Gilchrist,18.06,144.5
+2010.0,Deccan Chargers,Anirudh Singh,4,Anirudh Singh,15.75,91.3
+2010.0,Deccan Chargers,B Sumanth,4,B Sumanth,8.75,92.11
+2010.0,Deccan Chargers,DR Smith,3,DR Smith,7.33,88.0
+2010.0,Deccan Chargers,HH Gibbs,10,HH Gibbs,26.7,109.88
+2010.0,Deccan Chargers,Jaskaran Singh,4,Jaskaran Singh,2.0,72.73
+2010.0,Deccan Chargers,MD Mishra,11,MD Mishra,15.09,111.41
+2010.0,Deccan Chargers,PP Ojha,3,PP Ojha,1.0,37.5
+2010.0,Deccan Chargers,R Sharma,4,R Sharma,7.25,111.54
+2010.0,Deccan Chargers,RG Sharma,16,RG Sharma,25.25,130.32
+2010.0,Deccan Chargers,RJ Harris,5,RJ Harris,9.0,115.38
+2010.0,Deccan Chargers,RP Singh,5,RP Singh,1.8,45.0
+2010.0,Deccan Chargers,TL Suman,14,TL Suman,21.93,116.29
+2010.0,Deccan Chargers,VVS Laxman,6,VVS Laxman,10.67,103.23
+2010.0,Deccan Chargers,WPUJC Vaas,5,WPUJC Vaas,6.0,88.24
+2010.0,Deccan Chargers,Y Venugopal Rao,4,Y Venugopal Rao,8.5,77.27
+2010.0,Delhi Daredevils,A Mishra,7,A Mishra,5.57,72.22
+2010.0,Delhi Daredevils,AB McDonald,3,AB McDonald,21.67,120.37
+2010.0,Delhi Daredevils,AB de Villiers,7,AB de Villiers,15.86,90.24
+2010.0,Delhi Daredevils,DA Warner,11,DA Warner,25.64,144.62
+2010.0,Delhi Daredevils,DL Vettori,3,DL Vettori,11.0,117.86
+2010.0,Delhi Daredevils,G Gambhir,10,G Gambhir,27.7,124.22
+2010.0,Delhi Daredevils,KD Karthik,14,KD Karthik,19.86,114.88
+2010.0,Delhi Daredevils,KM Jadhav,5,KM Jadhav,15.2,126.67
+2010.0,Delhi Daredevils,M Manhas,8,M Manhas,19.62,103.97
+2010.0,Delhi Daredevils,MF Maharoof,4,MF Maharoof,7.75,129.17
+2010.0,Delhi Daredevils,PD Collingwood,7,PD Collingwood,29.0,127.67
+2010.0,Delhi Daredevils,R Bhatia,3,R Bhatia,8.0,141.18
+2010.0,Delhi Daredevils,TM Dilshan,6,TM Dilshan,7.33,80.0
+2010.0,Delhi Daredevils,V Sehwag,14,V Sehwag,25.43,156.83
+2010.0,Kings XI Punjab,AB Barath,3,AB Barath,14.0,97.67
+2010.0,Kings XI Punjab,B Lee,3,B Lee,3.67,100.0
+2010.0,Kings XI Punjab,DPMD Jayawardene,13,DPMD Jayawardene,34.23,142.63
+2010.0,Kings XI Punjab,IK Pathan,13,IK Pathan,21.23,146.81
+2010.0,Kings XI Punjab,KC Sangakkara,12,KC Sangakkara,29.75,137.31
+2010.0,Kings XI Punjab,M Kaif,3,M Kaif,9.33,90.32
+2010.0,Kings XI Punjab,MS Bisla,10,MS Bisla,21.8,115.34
+2010.0,Kings XI Punjab,PP Chawla,6,PP Chawla,10.33,98.41
+2010.0,Kings XI Punjab,RS Bopara,9,RS Bopara,27.56,111.21
+2010.0,Kings XI Punjab,S Sreesanth,3,S Sreesanth,9.0,122.73
+2010.0,Kings XI Punjab,SE Marsh,4,SE Marsh,36.75,125.64
+2010.0,Kings XI Punjab,Yuvraj Singh,14,Yuvraj Singh,18.5,125.73
+2010.0,Kolkata Knight Riders,AB Agarkar,4,AB Agarkar,10.0,133.33
+2010.0,Kolkata Knight Riders,AD Mathews,10,AD Mathews,23.3,118.27
+2010.0,Kolkata Knight Riders,BB McCullum,5,BB McCullum,22.8,97.44
+2010.0,Kolkata Knight Riders,BJ Hodge,4,BJ Hodge,24.75,104.21
+2010.0,Kolkata Knight Riders,CA Pujara,6,CA Pujara,20.33,102.52
+2010.0,Kolkata Knight Riders,CH Gayle,9,CH Gayle,32.44,148.22
+2010.0,Kolkata Knight Riders,DJ Hussey,6,DJ Hussey,15.67,105.62
+2010.0,Kolkata Knight Riders,MK Tiwary,11,MK Tiwary,21.55,123.44
+2010.0,Kolkata Knight Riders,OA Shah,5,OA Shah,23.0,119.79
+2010.0,Kolkata Knight Riders,SC Ganguly,14,SC Ganguly,35.21,112.05
+2010.0,Kolkata Knight Riders,WP Saha,6,WP Saha,11.17,126.42
+2010.0,Mumbai Indians,AM Nayar,3,AM Nayar,19.33,113.73
+2010.0,Mumbai Indians,AP Tare,4,AP Tare,12.5,121.95
+2010.0,Mumbai Indians,AT Rayudu,14,AT Rayudu,25.43,137.98
+2010.0,Mumbai Indians,DJ Bravo,8,DJ Bravo,7.62,115.09
+2010.0,Mumbai Indians,Harbhajan Singh,7,Harbhajan Singh,15.0,164.06
+2010.0,Mumbai Indians,JP Duminy,7,JP Duminy,22.43,117.16
+2010.0,Mumbai Indians,KA Pollard,14,KA Pollard,19.5,179.61
+2010.0,Mumbai Indians,R McLaren,7,R McLaren,9.43,92.96
+2010.0,Mumbai Indians,R Sathish,10,R Sathish,11.2,114.29
+2010.0,Mumbai Indians,S Dhawan,10,S Dhawan,19.1,106.11
+2010.0,Mumbai Indians,SR Tendulkar,15,SR Tendulkar,41.2,126.38
+2010.0,Mumbai Indians,SS Tiwary,15,SS Tiwary,27.93,131.35
+2010.0,Mumbai Indians,ST Jayasuriya,4,ST Jayasuriya,8.25,94.29
+2010.0,Mumbai Indians,Z Khan,3,Z Khan,8.0,184.62
+2010.0,Rajasthan Royals,AA Jhunjhunwala,10,AA Jhunjhunwala,18.3,106.4
+2010.0,Rajasthan Royals,AC Voges,7,AC Voges,25.86,126.57
+2010.0,Rajasthan Royals,AS Raut,5,AS Raut,11.2,116.67
+2010.0,Rajasthan Royals,FY Fazal,9,FY Fazal,18.22,102.5
+2010.0,Rajasthan Royals,MJ Lumb,11,MJ Lumb,25.27,141.84
+2010.0,Rajasthan Royals,NV Ojha,14,NV Ojha,26.93,128.23
+2010.0,Rajasthan Royals,P Dogra,8,P Dogra,13.38,99.07
+2010.0,Rajasthan Royals,S Narwal,3,S Narwal,4.67,107.69
+2010.0,Rajasthan Royals,SK Trivedi,4,SK Trivedi,5.0,133.33
+2010.0,Rajasthan Royals,SK Warne,6,SK Warne,1.67,47.62
+2010.0,Rajasthan Royals,SR Watson,5,SR Watson,37.0,158.12
+2010.0,Rajasthan Royals,YK Pathan,14,YK Pathan,23.79,158.57
+2010.0,Royal Challengers Bangalore,A Kumble,5,A Kumble,1.2,50.0
+2010.0,Royal Challengers Bangalore,CL White,5,CL White,9.6,145.45
+2010.0,Royal Challengers Bangalore,DW Steyn,4,DW Steyn,3.25,76.47
+2010.0,Royal Challengers Bangalore,EJG Morgan,4,EJG Morgan,8.75,112.9
+2010.0,Royal Challengers Bangalore,JH Kallis,16,JH Kallis,35.75,110.64
+2010.0,Royal Challengers Bangalore,KP Pietersen,7,KP Pietersen,33.71,148.43
+2010.0,Royal Challengers Bangalore,LRPL Taylor,7,LRPL Taylor,12.57,114.29
+2010.0,Royal Challengers Bangalore,MK Pandey,13,MK Pandey,19.15,106.87
+2010.0,Royal Challengers Bangalore,P Kumar,3,P Kumar,1.33,50.0
+2010.0,Royal Challengers Bangalore,R Dravid,11,R Dravid,23.27,126.11
+2010.0,Royal Challengers Bangalore,R Vinay Kumar,5,R Vinay Kumar,5.4,77.14
+2010.0,Royal Challengers Bangalore,RV Uthappa,14,RV Uthappa,26.71,166.96
+2010.0,Royal Challengers Bangalore,V Kohli,13,V Kohli,23.62,142.13
+2011.0,Chennai Super Kings,JA Morkel,12,JA Morkel,11.5,127.78
+2011.0,Chennai Super Kings,M Vijay,16,M Vijay,27.12,124.36
+2011.0,Chennai Super Kings,MEK Hussey,14,MEK Hussey,35.14,116.31
+2011.0,Chennai Super Kings,MS Dhoni,13,MS Dhoni,30.15,158.7
+2011.0,Chennai Super Kings,S Anirudha,5,S Anirudha,16.6,106.41
+2011.0,Chennai Super Kings,S Badrinath,12,S Badrinath,33.0,123.75
+2011.0,Chennai Super Kings,SK Raina,16,SK Raina,27.38,130.75
+2011.0,Deccan Chargers,A Mishra,9,A Mishra,7.56,130.77
+2011.0,Deccan Chargers,B Chipli,13,B Chipli,15.92,120.35
+2011.0,Deccan Chargers,CL White,6,CL White,17.33,95.41
+2011.0,Deccan Chargers,DB Ravi Teja,9,DB Ravi Teja,20.33,124.49
+2011.0,Deccan Chargers,DT Christian,13,DT Christian,14.62,118.01
+2011.0,Deccan Chargers,DW Steyn,5,DW Steyn,7.2,97.3
+2011.0,Deccan Chargers,I Sharma,4,I Sharma,1.0,80.0
+2011.0,Deccan Chargers,JP Duminy,10,JP Duminy,20.5,116.48
+2011.0,Deccan Chargers,KC Sangakkara,13,KC Sangakkara,27.54,120.13
+2011.0,Deccan Chargers,S Dhawan,14,S Dhawan,28.57,126.98
+2011.0,Deccan Chargers,S Sohal,10,S Sohal,24.9,123.88
+2011.0,Delhi Daredevils,AJ Finch,6,AJ Finch,7.83,92.16
+2011.0,Delhi Daredevils,DA Warner,12,DA Warner,25.42,112.55
+2011.0,Delhi Daredevils,IK Pathan,12,IK Pathan,12.5,102.74
+2011.0,Delhi Daredevils,JR Hopes,8,JR Hopes,24.5,120.99
+2011.0,Delhi Daredevils,M Morkel,5,M Morkel,8.0,160.0
+2011.0,Delhi Daredevils,NV Ojha,13,NV Ojha,11.69,102.01
+2011.0,Delhi Daredevils,RE van der Merwe,4,RE van der Merwe,3.5,87.5
+2011.0,Delhi Daredevils,TR Birt,5,TR Birt,15.0,127.12
+2011.0,Delhi Daredevils,V Sehwag,11,V Sehwag,38.55,171.66
+2011.0,Delhi Daredevils,Y Nagar,10,Y Nagar,11.1,102.78
+2011.0,Delhi Daredevils,Y Venugopal Rao,13,Y Venugopal Rao,25.85,115.46
+2011.0,Kings XI Punjab,AC Gilchrist,14,AC Gilchrist,27.36,123.95
+2011.0,Kings XI Punjab,AM Nayar,9,AM Nayar,6.78,91.04
+2011.0,Kings XI Punjab,Bipul Sharma,3,Bipul Sharma,7.67,127.78
+2011.0,Kings XI Punjab,DJ Hussey,8,DJ Hussey,8.0,98.46
+2011.0,Kings XI Punjab,KD Karthik,13,KD Karthik,21.69,125.33
+2011.0,Kings XI Punjab,Mandeep Singh,5,Mandeep Singh,9.4,111.9
+2011.0,Kings XI Punjab,P Kumar,7,P Kumar,3.86,81.82
+2011.0,Kings XI Punjab,PC Valthaty,14,PC Valthaty,33.07,131.91
+2011.0,Kings XI Punjab,PP Chawla,6,PP Chawla,8.0,87.27
+2011.0,Kings XI Punjab,R McLaren,4,R McLaren,22.5,89.11
+2011.0,Kings XI Punjab,RJ Harris,7,RJ Harris,4.43,79.49
+2011.0,Kings XI Punjab,SE Marsh,13,SE Marsh,38.77,144.41
+2011.0,Kings XI Punjab,Sunny Singh,5,Sunny Singh,8.6,138.71
+2011.0,Kochi Tuskers Kerala,BB McCullum,13,BB McCullum,27.46,122.26
+2011.0,Kochi Tuskers Kerala,BJ Hodge,14,BJ Hodge,20.36,116.33
+2011.0,Kochi Tuskers Kerala,DPMD Jayawardene,13,DPMD Jayawardene,23.0,109.93
+2011.0,Kochi Tuskers Kerala,KM Jadhav,4,KM Jadhav,4.5,78.26
+2011.0,Kochi Tuskers Kerala,M Klinger,4,M Klinger,18.25,93.59
+2011.0,Kochi Tuskers Kerala,PA Patel,13,PA Patel,15.54,106.88
+2011.0,Kochi Tuskers Kerala,R Vinay Kumar,7,R Vinay Kumar,7.14,104.17
+2011.0,Kochi Tuskers Kerala,RA Jadeja,12,RA Jadeja,23.58,120.94
+2011.0,Kochi Tuskers Kerala,RP Singh,4,RP Singh,0.5,50.0
+2011.0,Kochi Tuskers Kerala,RR Powar,3,RR Powar,3.67,84.62
+2011.0,Kochi Tuskers Kerala,RV Gomez,8,RV Gomez,5.75,88.46
+2011.0,Kochi Tuskers Kerala,S Sreesanth,3,S Sreesanth,0.33,11.11
+2011.0,Kochi Tuskers Kerala,VVS Laxman,3,VVS Laxman,14.67,104.76
+2011.0,Kolkata Knight Riders,B Lee,4,B Lee,1.25,55.56
+2011.0,Kolkata Knight Riders,EJG Morgan,9,EJG Morgan,15.22,111.38
+2011.0,Kolkata Knight Riders,G Gambhir,15,G Gambhir,25.2,113.86
+2011.0,Kolkata Knight Riders,JH Kallis,14,JH Kallis,30.29,109.84
+2011.0,Kolkata Knight Riders,MK Tiwary,13,MK Tiwary,27.62,106.85
+2011.0,Kolkata Knight Riders,MS Bisla,5,MS Bisla,14.4,80.0
+2011.0,Kolkata Knight Riders,R Bhatia,6,R Bhatia,4.17,108.7
+2011.0,Kolkata Knight Riders,RN ten Doeschate,3,RN ten Doeschate,35.67,140.79
+2011.0,Kolkata Knight Riders,SP Goswami,4,SP Goswami,7.25,93.55
+2011.0,Kolkata Knight Riders,Shakib Al Hasan,3,Shakib Al Hasan,9.67,126.09
+2011.0,Kolkata Knight Riders,YK Pathan,11,YK Pathan,25.73,138.05
+2011.0,Mumbai Indians,A Symonds,9,A Symonds,15.0,94.41
+2011.0,Mumbai Indians,AC Blizzard,6,AC Blizzard,20.0,136.36
+2011.0,Mumbai Indians,AT Rayudu,16,AT Rayudu,24.69,111.27
+2011.0,Mumbai Indians,DJ Jacobs,6,DJ Jacobs,15.33,101.1
+2011.0,Mumbai Indians,Harbhajan Singh,8,Harbhajan Singh,12.88,139.19
+2011.0,Mumbai Indians,JEC Franklin,5,JEC Franklin,21.4,133.75
+2011.0,Mumbai Indians,KA Pollard,12,KA Pollard,12.17,103.55
+2011.0,Mumbai Indians,R Sathish,3,R Sathish,8.33,71.43
+2011.0,Mumbai Indians,RG Sharma,13,RG Sharma,28.62,122.37
+2011.0,Mumbai Indians,SR Tendulkar,16,SR Tendulkar,34.56,108.22
+2011.0,Mumbai Indians,TL Suman,6,TL Suman,10.83,122.64
+2011.0,Pune Warriors,CJ Ferguson,4,CJ Ferguson,12.0,85.71
+2011.0,Pune Warriors,GC Smith,4,GC Smith,10.5,77.78
+2011.0,Pune Warriors,JD Ryder,13,JD Ryder,22.46,145.27
+2011.0,Pune Warriors,M Manhas,10,M Manhas,11.4,89.06
+2011.0,Pune Warriors,MD Mishra,5,MD Mishra,13.4,111.67
+2011.0,Pune Warriors,MK Pandey,9,MK Pandey,27.33,105.58
+2011.0,Pune Warriors,MR Marsh,3,MR Marsh,16.67,100.0
+2011.0,Pune Warriors,R Sharma,5,R Sharma,4.8,104.35
+2011.0,Pune Warriors,RV Uthappa,13,RV Uthappa,20.31,122.79
+2011.0,Pune Warriors,SC Ganguly,3,SC Ganguly,16.67,81.97
+2011.0,Pune Warriors,WD Parnell,5,WD Parnell,7.4,88.1
+2011.0,Pune Warriors,Yuvraj Singh,13,Yuvraj Singh,26.38,127.51
+2011.0,Rajasthan Royals,AG Paunikar,4,AG Paunikar,12.25,81.67
+2011.0,Rajasthan Royals,AL Menaria,10,AL Menaria,18.0,113.92
+2011.0,Rajasthan Royals,AM Rahane,7,AM Rahane,17.14,121.21
+2011.0,Rajasthan Royals,AS Raut,4,AS Raut,15.0,101.69
+2011.0,Rajasthan Royals,DH Yagnik,4,DH Yagnik,4.0,69.57
+2011.0,Rajasthan Royals,J Botha,9,J Botha,25.56,115.0
+2011.0,Rajasthan Royals,LRPL Taylor,11,LRPL Taylor,16.45,114.56
+2011.0,Rajasthan Royals,R Dravid,12,R Dravid,28.58,107.19
+2011.0,Rajasthan Royals,SK Warne,4,SK Warne,2.5,50.0
+2011.0,Rajasthan Royals,SR Watson,11,SR Watson,30.0,128.91
+2011.0,Royal Challengers Bangalore,A Mithun,4,A Mithun,6.75,135.0
+2011.0,Royal Challengers Bangalore,AB de Villiers,13,AB de Villiers,24.0,125.81
+2011.0,Royal Challengers Bangalore,AUK Pathan,5,AUK Pathan,6.6,183.33
+2011.0,Royal Challengers Bangalore,CA Pujara,3,CA Pujara,11.33,106.25
+2011.0,Royal Challengers Bangalore,CH Gayle,12,CH Gayle,50.67,177.78
+2011.0,Royal Challengers Bangalore,DL Vettori,4,DL Vettori,5.75,76.67
+2011.0,Royal Challengers Bangalore,JJ van der Wath,3,JJ van der Wath,6.0,105.88
+2011.0,Royal Challengers Bangalore,LA Pomersbach,4,LA Pomersbach,12.75,124.39
+2011.0,Royal Challengers Bangalore,M Kaif,4,M Kaif,10.25,117.14
+2011.0,Royal Challengers Bangalore,MA Agarwal,7,MA Agarwal,20.14,109.3
+2011.0,Royal Challengers Bangalore,SS Tiwary,13,SS Tiwary,14.38,95.41
+2011.0,Royal Challengers Bangalore,TM Dilshan,10,TM Dilshan,22.6,122.16
+2011.0,Royal Challengers Bangalore,V Kohli,16,V Kohli,34.81,117.76
+2012.0,Chennai Super Kings,DJ Bravo,16,DJ Bravo,23.19,136.9
+2012.0,Chennai Super Kings,F du Plessis,12,F du Plessis,33.17,128.39
+2012.0,Chennai Super Kings,JA Morkel,12,JA Morkel,8.92,150.7
+2012.0,Chennai Super Kings,M Vijay,13,M Vijay,25.85,123.08
+2012.0,Chennai Super Kings,MEK Hussey,8,MEK Hussey,32.62,108.3
+2012.0,Chennai Super Kings,MS Dhoni,17,MS Dhoni,21.06,126.5
+2012.0,Chennai Super Kings,R Ashwin,5,R Ashwin,3.6,120.0
+2012.0,Chennai Super Kings,RA Jadeja,14,RA Jadeja,13.64,124.84
+2012.0,Chennai Super Kings,S Badrinath,9,S Badrinath,21.78,104.26
+2012.0,Chennai Super Kings,SK Raina,18,SK Raina,24.5,131.64
+2012.0,Deccan Chargers,A Ashish Reddy,5,A Ashish Reddy,7.0,116.67
+2012.0,Deccan Chargers,A Mishra,5,A Mishra,3.2,76.19
+2012.0,Deccan Chargers,AA Jhunjhunwala,3,AA Jhunjhunwala,8.0,88.89
+2012.0,Deccan Chargers,Ankit Sharma,4,Ankit Sharma,4.5,138.46
+2012.0,Deccan Chargers,B Chipli,4,B Chipli,9.25,105.71
+2012.0,Deccan Chargers,CL White,13,CL White,36.85,146.48
+2012.0,Deccan Chargers,DJ Harris,4,DJ Harris,27.75,107.77
+2012.0,Deccan Chargers,DT Christian,7,DT Christian,20.71,118.85
+2012.0,Deccan Chargers,DW Steyn,5,DW Steyn,3.8,90.48
+2012.0,Deccan Chargers,IR Jaggi,3,IR Jaggi,5.0,68.18
+2012.0,Deccan Chargers,JP Duminy,9,JP Duminy,27.11,125.13
+2012.0,Deccan Chargers,KC Sangakkara,12,KC Sangakkara,16.67,105.26
+2012.0,Deccan Chargers,PA Patel,12,PA Patel,16.17,116.87
+2012.0,Deccan Chargers,PA Reddy,3,PA Reddy,24.33,115.87
+2012.0,Deccan Chargers,S Dhawan,15,S Dhawan,37.93,127.01
+2012.0,Delhi Daredevils,DA Warner,8,DA Warner,32.0,159.01
+2012.0,Delhi Daredevils,DPMD Jayawardene,15,DPMD Jayawardene,22.33,109.48
+2012.0,Delhi Daredevils,IK Pathan,12,IK Pathan,14.67,132.33
+2012.0,Delhi Daredevils,KP Pietersen,8,KP Pietersen,38.12,145.24
+2012.0,Delhi Daredevils,LRPL Taylor,12,LRPL Taylor,16.42,111.3
+2012.0,Delhi Daredevils,M Morkel,3,M Morkel,1.0,60.0
+2012.0,Delhi Daredevils,NV Ojha,16,NV Ojha,15.94,110.87
+2012.0,Delhi Daredevils,P Negi,4,P Negi,9.0,120.0
+2012.0,Delhi Daredevils,UT Yadav,3,UT Yadav,0.67,28.57
+2012.0,Delhi Daredevils,V Sehwag,16,V Sehwag,30.94,156.15
+2012.0,Delhi Daredevils,Y Nagar,8,Y Nagar,19.12,114.18
+2012.0,Delhi Daredevils,Y Venugopal Rao,7,Y Venugopal Rao,18.86,102.33
+2012.0,Kings XI Punjab,AC Gilchrist,7,AC Gilchrist,24.57,117.01
+2012.0,Kings XI Punjab,AD Mascarenhas,3,AD Mascarenhas,4.67,87.5
+2012.0,Kings XI Punjab,AM Nayar,4,AM Nayar,11.25,91.84
+2012.0,Kings XI Punjab,Azhar Mahmood,10,Azhar Mahmood,18.6,128.28
+2012.0,Kings XI Punjab,Bipul Sharma,4,Bipul Sharma,18.0,153.19
+2012.0,Kings XI Punjab,DA Miller,6,DA Miller,16.33,128.95
+2012.0,Kings XI Punjab,DJ Hussey,15,DJ Hussey,26.4,126.52
+2012.0,Kings XI Punjab,Gurkeerat Singh,4,Gurkeerat Singh,21.5,159.26
+2012.0,Kings XI Punjab,Mandeep Singh,16,Mandeep Singh,27.0,123.78
+2012.0,Kings XI Punjab,N Saini,10,N Saini,14.0,97.9
+2012.0,Kings XI Punjab,P Dogra,3,P Dogra,5.0,60.0
+2012.0,Kings XI Punjab,P Kumar,7,P Kumar,5.0,109.38
+2012.0,Kings XI Punjab,PC Valthaty,6,PC Valthaty,5.0,57.69
+2012.0,Kings XI Punjab,PP Chawla,12,PP Chawla,8.83,120.45
+2012.0,Kings XI Punjab,SD Chitnis,4,SD Chitnis,16.5,103.12
+2012.0,Kings XI Punjab,SE Marsh,13,SE Marsh,25.85,116.67
+2012.0,Kolkata Knight Riders,B Lee,3,B Lee,14.0,200.0
+2012.0,Kolkata Knight Riders,BB McCullum,12,BB McCullum,24.08,100.7
+2012.0,Kolkata Knight Riders,DB Das,10,DB Das,12.6,131.25
+2012.0,Kolkata Knight Riders,G Gambhir,17,G Gambhir,34.71,137.53
+2012.0,Kolkata Knight Riders,JH Kallis,17,JH Kallis,24.06,104.07
+2012.0,Kolkata Knight Riders,LR Shukla,7,LR Shukla,10.71,131.58
+2012.0,Kolkata Knight Riders,MK Tiwary,15,MK Tiwary,17.33,103.59
+2012.0,Kolkata Knight Riders,MS Bisla,7,MS Bisla,30.43,124.56
+2012.0,Kolkata Knight Riders,R Bhatia,6,R Bhatia,5.83,116.67
+2012.0,Kolkata Knight Riders,RN ten Doeschate,3,RN ten Doeschate,7.0,100.0
+2012.0,Kolkata Knight Riders,Shakib Al Hasan,7,Shakib Al Hasan,13.0,118.18
+2012.0,Kolkata Knight Riders,YK Pathan,16,YK Pathan,12.12,108.38
+2012.0,Mumbai Indians,AT Rayudu,15,AT Rayudu,22.2,127.59
+2012.0,Mumbai Indians,DR Smith,6,DR Smith,26.17,153.92
+2012.0,Mumbai Indians,HH Gibbs,3,HH Gibbs,27.0,89.01
+2012.0,Mumbai Indians,Harbhajan Singh,11,Harbhajan Singh,9.82,131.71
+2012.0,Mumbai Indians,JEC Franklin,11,JEC Franklin,20.0,96.07
+2012.0,Mumbai Indians,KA Pollard,11,KA Pollard,20.0,134.97
+2012.0,Mumbai Indians,KD Karthik,14,KD Karthik,17.0,109.68
+2012.0,Mumbai Indians,PP Ojha,3,PP Ojha,1.33,28.57
+2012.0,Mumbai Indians,RE Levi,6,RE Levi,13.83,112.16
+2012.0,Mumbai Indians,RG Sharma,16,RG Sharma,27.06,123.71
+2012.0,Mumbai Indians,RJ Peterson,5,RJ Peterson,6.4,100.0
+2012.0,Mumbai Indians,RP Singh,5,RP Singh,1.2,50.0
+2012.0,Mumbai Indians,SL Malinga,6,SL Malinga,9.17,100.0
+2012.0,Mumbai Indians,SR Tendulkar,13,SR Tendulkar,24.92,109.09
+2012.0,Pune Warriors,AD Mathews,8,AD Mathews,15.88,115.45
+2012.0,Pune Warriors,AP Majumdar,4,AP Majumdar,21.75,112.99
+2012.0,Pune Warriors,B Kumar,8,B Kumar,5.0,97.56
+2012.0,Pune Warriors,CJ Ferguson,4,CJ Ferguson,12.5,79.37
+2012.0,Pune Warriors,JD Ryder,11,JD Ryder,23.27,118.52
+2012.0,Pune Warriors,M Kartik,3,M Kartik,8.67,123.81
+2012.0,Pune Warriors,M Manhas,7,M Manhas,17.14,121.21
+2012.0,Pune Warriors,MJ Clarke,6,MJ Clarke,16.33,102.08
+2012.0,Pune Warriors,MK Pandey,9,MK Pandey,15.89,124.35
+2012.0,Pune Warriors,MN Samuels,8,MN Samuels,15.5,100.0
+2012.0,Pune Warriors,R Sharma,4,R Sharma,0.5,18.18
+2012.0,Pune Warriors,RV Uthappa,16,RV Uthappa,25.31,113.45
+2012.0,Pune Warriors,SC Ganguly,15,SC Ganguly,17.87,93.06
+2012.0,Pune Warriors,SPD Smith,14,SPD Smith,25.86,133.09
+2012.0,Pune Warriors,WD Parnell,5,WD Parnell,3.8,65.52
+2012.0,Rajasthan Royals,AL Menaria,12,AL Menaria,18.33,106.28
+2012.0,Rajasthan Royals,AM Rahane,16,AM Rahane,35.0,125.0
+2012.0,Rajasthan Royals,BJ Hodge,12,BJ Hodge,20.42,136.11
+2012.0,Rajasthan Royals,DH Yagnik,3,DH Yagnik,8.33,178.57
+2012.0,Rajasthan Royals,J Botha,7,J Botha,8.29,105.45
+2012.0,Rajasthan Royals,KK Cooper,4,KK Cooper,9.5,190.0
+2012.0,Rajasthan Royals,OA Shah,13,OA Shah,26.15,126.39
+2012.0,Rajasthan Royals,R Dravid,16,R Dravid,28.88,108.96
+2012.0,Rajasthan Royals,SP Goswami,6,SP Goswami,11.5,100.0
+2012.0,Rajasthan Royals,SR Watson,7,SR Watson,36.43,149.12
+2012.0,Rajasthan Royals,STR Binny,6,STR Binny,15.0,128.57
+2012.0,Royal Challengers Bangalore,AB McDonald,3,AB McDonald,15.67,130.56
+2012.0,Royal Challengers Bangalore,AB de Villiers,13,AB de Villiers,24.54,157.14
+2012.0,Royal Challengers Bangalore,CA Pujara,3,CA Pujara,5.67,73.91
+2012.0,Royal Challengers Bangalore,CH Gayle,14,CH Gayle,52.36,155.3
+2012.0,Royal Challengers Bangalore,DL Vettori,6,DL Vettori,5.17,110.71
+2012.0,Royal Challengers Bangalore,HV Patel,3,HV Patel,5.0,88.24
+2012.0,Royal Challengers Bangalore,MA Agarwal,12,MA Agarwal,18.75,137.2
+2012.0,Royal Challengers Bangalore,R Vinay Kumar,7,R Vinay Kumar,9.71,104.62
+2012.0,Royal Challengers Bangalore,SS Tiwary,11,SS Tiwary,17.36,110.4
+2012.0,Royal Challengers Bangalore,TM Dilshan,9,TM Dilshan,31.67,104.01
+2012.0,Royal Challengers Bangalore,V Kohli,15,V Kohli,24.27,109.31
+2012.0,Royal Challengers Bangalore,Z Khan,4,Z Khan,3.0,70.59
+2013.0,Chennai Super Kings,CH Morris,6,CH Morris,2.33,82.35
+2013.0,Chennai Super Kings,DJ Bravo,12,DJ Bravo,10.08,108.04
+2013.0,Chennai Super Kings,JA Morkel,3,JA Morkel,15.33,124.32
+2013.0,Chennai Super Kings,M Vijay,15,M Vijay,20.8,106.48
+2013.0,Chennai Super Kings,MEK Hussey,17,MEK Hussey,43.12,126.38
+2013.0,Chennai Super Kings,MS Dhoni,16,MS Dhoni,28.81,154.7
+2013.0,Chennai Super Kings,R Ashwin,5,R Ashwin,7.0,70.0
+2013.0,Chennai Super Kings,RA Jadeja,14,RA Jadeja,14.36,144.6
+2013.0,Chennai Super Kings,S Badrinath,7,S Badrinath,17.71,100.81
+2013.0,Chennai Super Kings,SK Raina,17,SK Raina,32.24,148.11
+2013.0,Chennai Super Kings,WP Saha,3,WP Saha,23.33,122.81
+2013.0,Delhi Daredevils,A Nehra,4,A Nehra,0.25,12.5
+2013.0,Delhi Daredevils,BJ Rohrer,8,BJ Rohrer,24.12,132.19
+2013.0,Delhi Daredevils,BMAJ Mendis,3,BMAJ Mendis,7.67,85.19
+2013.0,Delhi Daredevils,CM Gautam,3,CM Gautam,14.67,118.92
+2013.0,Delhi Daredevils,DA Warner,16,DA Warner,25.62,123.12
+2013.0,Delhi Daredevils,DPMD Jayawardene,15,DPMD Jayawardene,22.07,102.8
+2013.0,Delhi Daredevils,IK Pathan,13,IK Pathan,11.77,96.23
+2013.0,Delhi Daredevils,J Botha,6,J Botha,7.17,82.69
+2013.0,Delhi Daredevils,KM Jadhav,10,KM Jadhav,15.2,119.69
+2013.0,Delhi Daredevils,M Morkel,6,M Morkel,9.5,190.0
+2013.0,Delhi Daredevils,MC Juneja,7,MC Juneja,17.86,93.28
+2013.0,Delhi Daredevils,S Nadeem,6,S Nadeem,2.33,51.85
+2013.0,Delhi Daredevils,UBT Chand,9,UBT Chand,17.56,96.93
+2013.0,Delhi Daredevils,UT Yadav,7,UT Yadav,5.43,97.44
+2013.0,Delhi Daredevils,V Sehwag,13,V Sehwag,22.69,120.9
+2013.0,Kings XI Punjab,AC Gilchrist,13,AC Gilchrist,22.62,125.64
+2013.0,Kings XI Punjab,Azhar Mahmood,10,Azhar Mahmood,19.6,124.05
+2013.0,Kings XI Punjab,DA Miller,12,DA Miller,34.83,162.65
+2013.0,Kings XI Punjab,DJ Hussey,11,DJ Hussey,21.36,111.9
+2013.0,Kings XI Punjab,Gurkeerat Singh,9,Gurkeerat Singh,12.0,110.2
+2013.0,Kings XI Punjab,LA Pomersbach,3,LA Pomersbach,19.33,96.67
+2013.0,Kings XI Punjab,M Vohra,10,M Vohra,16.1,137.61
+2013.0,Kings XI Punjab,MS Gony,4,MS Gony,11.25,166.67
+2013.0,Kings XI Punjab,Mandeep Singh,14,Mandeep Singh,18.57,114.04
+2013.0,Kings XI Punjab,P Awana,4,P Awana,0.25,11.11
+2013.0,Kings XI Punjab,P Kumar,7,P Kumar,6.71,114.63
+2013.0,Kings XI Punjab,PP Chawla,10,PP Chawla,6.4,106.67
+2013.0,Kings XI Punjab,R Sathish,8,R Sathish,13.62,137.97
+2013.0,Kings XI Punjab,SE Marsh,8,SE Marsh,37.5,117.19
+2013.0,Kolkata Knight Riders,DB Das,6,DB Das,12.5,98.68
+2013.0,Kolkata Knight Riders,EJG Morgan,13,EJG Morgan,23.62,122.8
+2013.0,Kolkata Knight Riders,G Gambhir,15,G Gambhir,27.07,114.69
+2013.0,Kolkata Knight Riders,JH Kallis,15,JH Kallis,20.73,95.11
+2013.0,Kolkata Knight Riders,MK Tiwary,9,MK Tiwary,16.22,102.82
+2013.0,Kolkata Knight Riders,MS Bisla,14,MS Bisla,18.21,102.82
+2013.0,Kolkata Knight Riders,R Bhatia,10,R Bhatia,9.9,122.22
+2013.0,Kolkata Knight Riders,RN ten Doeschate,4,RN ten Doeschate,21.25,134.92
+2013.0,Kolkata Knight Riders,SMSM Senanayake,4,SMSM Senanayake,2.5,58.82
+2013.0,Kolkata Knight Riders,SP Narine,6,SP Narine,3.5,105.0
+2013.0,Kolkata Knight Riders,YK Pathan,16,YK Pathan,20.75,134.41
+2013.0,Mumbai Indians,AP Tare,5,AP Tare,24.6,146.43
+2013.0,Mumbai Indians,AT Rayudu,15,AT Rayudu,17.67,112.77
+2013.0,Mumbai Indians,DR Smith,13,DR Smith,32.15,119.09
+2013.0,Mumbai Indians,GJ Maxwell,3,GJ Maxwell,12.0,133.33
+2013.0,Mumbai Indians,Harbhajan Singh,13,Harbhajan Singh,8.92,141.46
+2013.0,Mumbai Indians,KA Pollard,18,KA Pollard,23.33,144.83
+2013.0,Mumbai Indians,KD Karthik,19,KD Karthik,26.84,120.85
+2013.0,Mumbai Indians,MG Johnson,6,MG Johnson,6.5,105.41
+2013.0,Mumbai Indians,PP Ojha,3,PP Ojha,0.67,50.0
+2013.0,Mumbai Indians,R Dhawan,4,R Dhawan,5.25,100.0
+2013.0,Mumbai Indians,RG Sharma,19,RG Sharma,28.32,129.64
+2013.0,Mumbai Indians,RT Ponting,5,RT Ponting,10.4,68.42
+2013.0,Mumbai Indians,SL Malinga,6,SL Malinga,1.5,47.37
+2013.0,Mumbai Indians,SR Tendulkar,14,SR Tendulkar,20.5,118.11
+2013.0,Pune Warriors,AB Dinda,5,AB Dinda,1.8,81.82
+2013.0,Pune Warriors,AD Mathews,10,AD Mathews,17.2,121.99
+2013.0,Pune Warriors,AJ Finch,14,AJ Finch,32.57,132.56
+2013.0,Pune Warriors,AM Nayar,9,AM Nayar,7.33,89.19
+2013.0,Pune Warriors,B Kumar,9,B Kumar,5.78,72.22
+2013.0,Pune Warriors,LJ Wright,5,LJ Wright,21.2,168.25
+2013.0,Pune Warriors,LRPL Taylor,5,LRPL Taylor,12.6,81.82
+2013.0,Pune Warriors,MK Pandey,7,MK Pandey,19.43,97.84
+2013.0,Pune Warriors,MR Marsh,8,MR Marsh,17.5,128.44
+2013.0,Pune Warriors,R Sharma,6,R Sharma,1.83,64.71
+2013.0,Pune Warriors,RV Uthappa,16,RV Uthappa,27.12,112.73
+2013.0,Pune Warriors,SPD Smith,7,SPD Smith,22.71,118.66
+2013.0,Pune Warriors,TL Suman,5,TL Suman,10.4,89.66
+2013.0,Pune Warriors,Yuvraj Singh,13,Yuvraj Singh,18.31,123.32
+2013.0,Rajasthan Royals,AM Rahane,18,AM Rahane,27.11,103.39
+2013.0,Rajasthan Royals,BJ Hodge,14,BJ Hodge,20.93,130.8
+2013.0,Rajasthan Royals,DH Yagnik,9,DH Yagnik,13.89,126.26
+2013.0,Rajasthan Royals,JP Faulkner,9,JP Faulkner,6.33,100.0
+2013.0,Rajasthan Royals,KK Cooper,5,KK Cooper,7.8,177.27
+2013.0,Rajasthan Royals,R Dravid,17,R Dravid,27.71,108.78
+2013.0,Rajasthan Royals,SR Watson,16,SR Watson,33.94,138.17
+2013.0,Rajasthan Royals,STR Binny,16,STR Binny,18.31,143.63
+2013.0,Rajasthan Royals,SV Samson,10,SV Samson,20.6,115.08
+2013.0,Royal Challengers Bangalore,AB de Villiers,14,AB de Villiers,26.64,165.04
+2013.0,Royal Challengers Bangalore,CA Pujara,4,CA Pujara,23.0,92.0
+2013.0,Royal Challengers Bangalore,CH Gayle,16,CH Gayle,45.0,148.76
+2013.0,Royal Challengers Bangalore,KB Arun Karthik,5,KB Arun Karthik,8.2,102.5
+2013.0,Royal Challengers Bangalore,MA Agarwal,5,MA Agarwal,13.4,104.69
+2013.0,Royal Challengers Bangalore,MC Henriques,9,MC Henriques,18.33,129.92
+2013.0,Royal Challengers Bangalore,R Rampaul,6,R Rampaul,6.33,97.44
+2013.0,Royal Challengers Bangalore,R Vinay Kumar,5,R Vinay Kumar,14.0,159.09
+2013.0,Royal Challengers Bangalore,SS Tiwary,6,SS Tiwary,18.17,96.46
+2013.0,Royal Challengers Bangalore,TM Dilshan,5,TM Dilshan,15.2,78.35
+2013.0,Royal Challengers Bangalore,V Kohli,16,V Kohli,39.94,135.67
+2013.0,Sunrisers Hyderabad,A Ashish Reddy,10,A Ashish Reddy,12.5,138.89
+2013.0,Sunrisers Hyderabad,A Mishra,6,A Mishra,14.83,86.41
+2013.0,Sunrisers Hyderabad,BB Samantray,7,BB Samantray,17.57,107.89
+2013.0,Sunrisers Hyderabad,CL White,13,CL White,17.38,113.0
+2013.0,Sunrisers Hyderabad,DJG Sammy,9,DJG Sammy,19.33,127.94
+2013.0,Sunrisers Hyderabad,DW Steyn,8,DW Steyn,6.62,143.24
+2013.0,Sunrisers Hyderabad,GH Vihari,17,GH Vihari,14.18,83.97
+2013.0,Sunrisers Hyderabad,KC Sangakkara,9,KC Sangakkara,13.33,87.59
+2013.0,Sunrisers Hyderabad,KV Sharma,7,KV Sharma,12.14,95.51
+2013.0,Sunrisers Hyderabad,NLTC Perera,14,NLTC Perera,16.79,135.84
+2013.0,Sunrisers Hyderabad,PA Patel,13,PA Patel,22.62,112.64
+2013.0,Sunrisers Hyderabad,PA Reddy,7,PA Reddy,13.0,87.5
+2013.0,Sunrisers Hyderabad,Q de Kock,3,Q de Kock,2.0,37.5
+2013.0,Sunrisers Hyderabad,S Dhawan,10,S Dhawan,31.1,118.7
+2014.0,Chennai Super Kings,BB McCullum,14,BB McCullum,28.93,118.77
+2014.0,Chennai Super Kings,DJ Hussey,4,DJ Hussey,29.0,120.83
+2014.0,Chennai Super Kings,DR Smith,16,DR Smith,35.38,133.18
+2014.0,Chennai Super Kings,F du Plessis,12,F du Plessis,25.25,126.25
+2014.0,Chennai Super Kings,M Manhas,5,M Manhas,7.0,134.62
+2014.0,Chennai Super Kings,MS Dhoni,15,MS Dhoni,24.73,143.8
+2014.0,Chennai Super Kings,R Ashwin,5,R Ashwin,9.0,93.75
+2014.0,Chennai Super Kings,RA Jadeja,10,RA Jadeja,14.6,129.2
+2014.0,Chennai Super Kings,SK Raina,16,SK Raina,32.69,141.35
+2014.0,Delhi Daredevils,JDS Neesham,3,JDS Neesham,14.0,91.3
+2014.0,Delhi Daredevils,JP Duminy,14,JP Duminy,29.29,131.83
+2014.0,Delhi Daredevils,KD Karthik,14,KD Karthik,23.21,124.52
+2014.0,Delhi Daredevils,KM Jadhav,10,KM Jadhav,14.9,143.27
+2014.0,Delhi Daredevils,KP Pietersen,11,KP Pietersen,26.73,123.01
+2014.0,Delhi Daredevils,LR Shukla,3,LR Shukla,10.33,81.58
+2014.0,Delhi Daredevils,LRPL Taylor,4,LRPL Taylor,14.75,95.16
+2014.0,Delhi Daredevils,M Vijay,11,M Vijay,18.82,105.08
+2014.0,Delhi Daredevils,MA Agarwal,8,MA Agarwal,14.38,123.66
+2014.0,Delhi Daredevils,MK Tiwary,8,MK Tiwary,19.0,123.58
+2014.0,Delhi Daredevils,Mohammed Shami,4,Mohammed Shami,0.75,37.5
+2014.0,Delhi Daredevils,Q de Kock,7,Q de Kock,21.86,115.91
+2014.0,Delhi Daredevils,R Shukla,3,R Shukla,6.0,85.71
+2014.0,Delhi Daredevils,S Nadeem,3,S Nadeem,2.33,35.0
+2014.0,Kings XI Punjab,AR Patel,7,AR Patel,8.86,101.64
+2014.0,Kings XI Punjab,CA Pujara,6,CA Pujara,20.83,96.9
+2014.0,Kings XI Punjab,DA Miller,16,DA Miller,27.88,145.28
+2014.0,Kings XI Punjab,GJ Bailey,16,GJ Bailey,16.06,135.26
+2014.0,Kings XI Punjab,GJ Maxwell,16,GJ Maxwell,34.5,176.92
+2014.0,Kings XI Punjab,M Vohra,8,M Vohra,40.5,132.79
+2014.0,Kings XI Punjab,MG Johnson,8,MG Johnson,7.0,109.8
+2014.0,Kings XI Punjab,Mandeep Singh,3,Mandeep Singh,8.0,85.71
+2014.0,Kings XI Punjab,R Dhawan,6,R Dhawan,13.67,109.33
+2014.0,Kings XI Punjab,V Sehwag,17,V Sehwag,26.76,136.23
+2014.0,Kings XI Punjab,WP Saha,13,WP Saha,27.85,141.96
+2014.0,Kolkata Knight Riders,G Gambhir,16,G Gambhir,20.94,111.3
+2014.0,Kolkata Knight Riders,JH Kallis,7,JH Kallis,21.57,115.27
+2014.0,Kolkata Knight Riders,MK Pandey,16,MK Pandey,25.56,113.93
+2014.0,Kolkata Knight Riders,PP Chawla,5,PP Chawla,6.2,155.0
+2014.0,Kolkata Knight Riders,RN ten Doeschate,6,RN ten Doeschate,8.67,157.58
+2014.0,Kolkata Knight Riders,RV Uthappa,16,RV Uthappa,41.25,136.08
+2014.0,Kolkata Knight Riders,SA Yadav,10,SA Yadav,16.4,133.33
+2014.0,Kolkata Knight Riders,SP Narine,4,SP Narine,2.5,66.67
+2014.0,Kolkata Knight Riders,Shakib Al Hasan,11,Shakib Al Hasan,20.82,143.12
+2014.0,Kolkata Knight Riders,YK Pathan,12,YK Pathan,22.33,159.52
+2014.0,Mumbai Indians,AP Tare,11,AP Tare,11.45,123.53
+2014.0,Mumbai Indians,AT Rayudu,14,AT Rayudu,25.79,121.96
+2014.0,Mumbai Indians,BR Dunk,3,BR Dunk,13.33,111.11
+2014.0,Mumbai Indians,CJ Anderson,11,CJ Anderson,24.09,142.47
+2014.0,Mumbai Indians,CM Gautam,9,CM Gautam,13.44,104.31
+2014.0,Mumbai Indians,Harbhajan Singh,7,Harbhajan Singh,4.0,107.69
+2014.0,Mumbai Indians,KA Pollard,15,KA Pollard,18.2,131.25
+2014.0,Mumbai Indians,LMP Simmons,8,LMP Simmons,49.25,131.77
+2014.0,Mumbai Indians,MEK Hussey,9,MEK Hussey,23.22,111.76
+2014.0,Mumbai Indians,PP Ojha,3,PP Ojha,1.33,50.0
+2014.0,Mumbai Indians,RG Sharma,15,RG Sharma,26.0,127.04
+2014.0,Mumbai Indians,Z Khan,3,Z Khan,2.67,114.29
+2014.0,Rajasthan Royals,AM Nayar,4,AM Nayar,10.75,86.0
+2014.0,Rajasthan Royals,AM Rahane,12,AM Rahane,28.25,113.76
+2014.0,Rajasthan Royals,BJ Hodge,4,BJ Hodge,25.25,136.49
+2014.0,Rajasthan Royals,JP Faulkner,12,JP Faulkner,15.08,182.83
+2014.0,Rajasthan Royals,KK Cooper,3,KK Cooper,13.0,139.29
+2014.0,Rajasthan Royals,KK Nair,11,KK Nair,30.0,139.24
+2014.0,Rajasthan Royals,R Bhatia,7,R Bhatia,9.57,121.82
+2014.0,Rajasthan Royals,SPD Smith,7,SPD Smith,21.71,132.17
+2014.0,Rajasthan Royals,SR Watson,13,SR Watson,18.92,120.0
+2014.0,Rajasthan Royals,STR Binny,11,STR Binny,11.18,100.82
+2014.0,Rajasthan Royals,SV Samson,13,SV Samson,26.08,121.07
+2014.0,Royal Challengers Bangalore,AB Dinda,3,AB Dinda,1.33,30.77
+2014.0,Royal Challengers Bangalore,AB de Villiers,13,AB de Villiers,30.38,154.9
+2014.0,Royal Challengers Bangalore,CH Gayle,9,CH Gayle,21.78,104.26
+2014.0,Royal Challengers Bangalore,HV Patel,3,HV Patel,4.33,185.71
+2014.0,Royal Challengers Bangalore,JA Morkel,5,JA Morkel,9.0,109.76
+2014.0,Royal Challengers Bangalore,MA Starc,8,MA Starc,10.62,101.19
+2014.0,Royal Challengers Bangalore,PA Patel,12,PA Patel,17.08,107.33
+2014.0,Royal Challengers Bangalore,RR Rossouw,3,RR Rossouw,13.0,95.12
+2014.0,Royal Challengers Bangalore,S Rana,7,S Rana,10.43,110.61
+2014.0,Royal Challengers Bangalore,V Kohli,14,V Kohli,25.64,119.27
+2014.0,Royal Challengers Bangalore,VR Aaron,3,VR Aaron,11.67,102.94
+2014.0,Royal Challengers Bangalore,YV Takawale,5,YV Takawale,20.8,113.04
+2014.0,Royal Challengers Bangalore,Yuvraj Singh,14,Yuvraj Singh,26.86,130.56
+2014.0,Sunrisers Hyderabad,AJ Finch,13,AJ Finch,23.77,115.3
+2014.0,Sunrisers Hyderabad,DA Warner,14,DA Warner,37.71,136.79
+2014.0,Sunrisers Hyderabad,DJG Sammy,9,DJG Sammy,12.0,111.34
+2014.0,Sunrisers Hyderabad,DW Steyn,3,DW Steyn,7.33,84.62
+2014.0,Sunrisers Hyderabad,IK Pathan,6,IK Pathan,9.17,94.83
+2014.0,Sunrisers Hyderabad,KL Rahul,8,KL Rahul,20.75,100.0
+2014.0,Sunrisers Hyderabad,KV Sharma,8,KV Sharma,5.25,140.0
+2014.0,Sunrisers Hyderabad,NV Ojha,10,NV Ojha,23.2,136.47
+2014.0,Sunrisers Hyderabad,S Dhawan,14,S Dhawan,26.93,113.55
+2014.0,Sunrisers Hyderabad,Y Venugopal Rao,5,Y Venugopal Rao,14.2,109.23
+2015.0,Chennai Super Kings,A Nehra,4,A Nehra,0.25,14.29
+2015.0,Chennai Super Kings,BB McCullum,14,BB McCullum,31.14,148.81
+2015.0,Chennai Super Kings,DJ Bravo,13,DJ Bravo,15.0,129.14
+2015.0,Chennai Super Kings,DR Smith,16,DR Smith,24.94,117.01
+2015.0,Chennai Super Kings,F du Plessis,15,F du Plessis,25.33,119.87
+2015.0,Chennai Super Kings,MEK Hussey,4,MEK Hussey,19.25,105.48
+2015.0,Chennai Super Kings,MM Sharma,5,MM Sharma,5.6,155.56
+2015.0,Chennai Super Kings,MS Dhoni,17,MS Dhoni,21.88,120.39
+2015.0,Chennai Super Kings,P Negi,9,P Negi,12.89,150.65
+2015.0,Chennai Super Kings,R Ashwin,6,R Ashwin,8.67,152.94
+2015.0,Chennai Super Kings,RA Jadeja,11,RA Jadeja,12.0,103.12
+2015.0,Chennai Super Kings,SK Raina,17,SK Raina,22.0,117.24
+2015.0,Delhi Daredevils,A Mishra,4,A Mishra,2.0,61.54
+2015.0,Delhi Daredevils,AD Mathews,9,AD Mathews,15.89,134.91
+2015.0,Delhi Daredevils,JA Morkel,3,JA Morkel,28.67,122.86
+2015.0,Delhi Daredevils,JP Duminy,12,JP Duminy,28.92,122.61
+2015.0,Delhi Daredevils,KM Jadhav,11,KM Jadhav,17.18,133.1
+2015.0,Delhi Daredevils,MA Agarwal,10,MA Agarwal,21.3,113.9
+2015.0,Delhi Daredevils,NM Coulter-Nile,5,NM Coulter-Nile,4.0,100.0
+2015.0,Delhi Daredevils,SS Iyer,13,SS Iyer,32.23,122.87
+2015.0,Delhi Daredevils,SS Tiwary,5,SS Tiwary,19.2,129.73
+2015.0,Delhi Daredevils,Yuvraj Singh,12,Yuvraj Singh,19.75,113.94
+2015.0,Kings XI Punjab,AR Patel,12,AR Patel,17.17,113.81
+2015.0,Kings XI Punjab,Anureet Singh,6,Anureet Singh,3.0,58.06
+2015.0,Kings XI Punjab,DA Miller,13,DA Miller,27.46,130.29
+2015.0,Kings XI Punjab,GJ Bailey,12,GJ Bailey,21.58,132.14
+2015.0,Kings XI Punjab,GJ Maxwell,11,GJ Maxwell,13.27,126.96
+2015.0,Kings XI Punjab,Gurkeerat Singh,5,Gurkeerat Singh,7.0,85.37
+2015.0,Kings XI Punjab,Karanveer Singh,3,Karanveer Singh,3.67,68.75
+2015.0,Kings XI Punjab,M Vijay,11,M Vijay,22.82,107.73
+2015.0,Kings XI Punjab,M Vohra,7,M Vohra,11.71,98.8
+2015.0,Kings XI Punjab,MG Johnson,8,MG Johnson,3.88,81.58
+2015.0,Kings XI Punjab,R Dhawan,4,R Dhawan,9.0,109.09
+2015.0,Kings XI Punjab,SE Marsh,4,SE Marsh,23.25,143.08
+2015.0,Kings XI Punjab,Sandeep Sharma,3,Sandeep Sharma,3.0,64.29
+2015.0,Kings XI Punjab,V Sehwag,8,V Sehwag,12.38,111.24
+2015.0,Kings XI Punjab,WP Saha,13,WP Saha,19.15,121.46
+2015.0,Kolkata Knight Riders,AD Russell,11,AD Russell,29.64,186.29
+2015.0,Kolkata Knight Riders,G Gambhir,13,G Gambhir,25.15,113.54
+2015.0,Kolkata Knight Riders,J Botha,3,J Botha,10.33,206.67
+2015.0,Kolkata Knight Riders,MK Pandey,12,MK Pandey,18.75,120.32
+2015.0,Kolkata Knight Riders,PP Chawla,7,PP Chawla,7.71,110.2
+2015.0,Kolkata Knight Riders,RN ten Doeschate,5,RN ten Doeschate,12.2,135.56
+2015.0,Kolkata Knight Riders,RV Uthappa,13,RV Uthappa,28.0,126.83
+2015.0,Kolkata Knight Riders,SA Yadav,13,SA Yadav,12.08,136.52
+2015.0,Kolkata Knight Riders,Shakib Al Hasan,3,Shakib Al Hasan,12.0,112.5
+2015.0,Kolkata Knight Riders,UT Yadav,3,UT Yadav,9.67,181.25
+2015.0,Kolkata Knight Riders,YK Pathan,12,YK Pathan,26.0,128.4
+2015.0,Mumbai Indians,AJ Finch,3,AJ Finch,7.67,69.7
+2015.0,Mumbai Indians,AT Rayudu,14,AT Rayudu,20.07,144.1
+2015.0,Mumbai Indians,CJ Anderson,4,CJ Anderson,28.5,116.33
+2015.0,Mumbai Indians,HH Pandya,8,HH Pandya,14.0,164.71
+2015.0,Mumbai Indians,Harbhajan Singh,9,Harbhajan Singh,13.0,144.44
+2015.0,Mumbai Indians,J Suchith,5,J Suchith,9.6,145.45
+2015.0,Mumbai Indians,KA Pollard,14,KA Pollard,29.93,155.19
+2015.0,Mumbai Indians,LMP Simmons,13,LMP Simmons,41.54,118.68
+2015.0,Mumbai Indians,MJ McClenaghan,3,MJ McClenaghan,4.33,216.67
+2015.0,Mumbai Indians,PA Patel,14,PA Patel,24.21,132.94
+2015.0,Mumbai Indians,RG Sharma,16,RG Sharma,30.12,142.18
+2015.0,Mumbai Indians,UBT Chand,5,UBT Chand,20.4,114.61
+2015.0,Rajasthan Royals,AM Rahane,13,AM Rahane,41.54,127.66
+2015.0,Rajasthan Royals,CH Morris,7,CH Morris,10.86,161.7
+2015.0,Rajasthan Royals,DJ Hooda,9,DJ Hooda,16.78,152.53
+2015.0,Rajasthan Royals,JP Faulkner,11,JP Faulkner,13.09,124.14
+2015.0,Rajasthan Royals,KK Nair,12,KK Nair,15.08,123.13
+2015.0,Rajasthan Royals,SPD Smith,12,SPD Smith,24.83,130.7
+2015.0,Rajasthan Royals,SR Watson,9,SR Watson,38.56,128.52
+2015.0,Rajasthan Royals,STR Binny,8,STR Binny,9.25,107.25
+2015.0,Rajasthan Royals,SV Samson,11,SV Samson,18.55,122.89
+2015.0,Royal Challengers Bangalore,AB de Villiers,13,AB de Villiers,35.08,178.82
+2015.0,Royal Challengers Bangalore,AN Ahmed,3,AN Ahmed,3.33,200.0
+2015.0,Royal Challengers Bangalore,CH Gayle,12,CH Gayle,40.0,137.14
+2015.0,Royal Challengers Bangalore,D Wiese,6,D Wiese,18.5,137.04
+2015.0,Royal Challengers Bangalore,HV Patel,5,HV Patel,2.6,108.33
+2015.0,Royal Challengers Bangalore,KD Karthik,10,KD Karthik,11.4,112.87
+2015.0,Royal Challengers Bangalore,MA Starc,3,MA Starc,3.67,78.57
+2015.0,Royal Challengers Bangalore,Mandeep Singh,7,Mandeep Singh,18.57,160.49
+2015.0,Royal Challengers Bangalore,SN Khan,6,SN Khan,11.0,132.0
+2015.0,Royal Challengers Bangalore,V Kohli,14,V Kohli,35.93,129.31
+2015.0,Sunrisers Hyderabad,A Ashish Reddy,5,A Ashish Reddy,14.6,158.7
+2015.0,Sunrisers Hyderabad,B Kumar,3,B Kumar,5.67,170.0
+2015.0,Sunrisers Hyderabad,DA Warner,14,DA Warner,40.14,152.72
+2015.0,Sunrisers Hyderabad,DW Steyn,3,DW Steyn,6.67,153.85
+2015.0,Sunrisers Hyderabad,EJG Morgan,9,EJG Morgan,20.78,121.43
+2015.0,Sunrisers Hyderabad,GH Vihari,4,GH Vihari,9.75,108.33
+2015.0,Sunrisers Hyderabad,KL Rahul,8,KL Rahul,17.75,106.77
+2015.0,Sunrisers Hyderabad,KV Sharma,9,KV Sharma,11.56,119.54
+2015.0,Sunrisers Hyderabad,MC Henriques,9,MC Henriques,31.89,132.87
+2015.0,Sunrisers Hyderabad,NV Ojha,11,NV Ojha,12.45,108.73
+2015.0,Sunrisers Hyderabad,P Kumar,4,P Kumar,4.25,68.0
+2015.0,Sunrisers Hyderabad,RS Bopara,8,RS Bopara,18.12,119.83
+2015.0,Sunrisers Hyderabad,S Dhawan,14,S Dhawan,25.21,120.48
+2016.0,Delhi Daredevils,CH Morris,7,CH Morris,27.86,171.05
+2016.0,Delhi Daredevils,CR Brathwaite,6,CR Brathwaite,13.83,207.5
+2016.0,Delhi Daredevils,JP Duminy,8,JP Duminy,23.88,121.66
+2016.0,Delhi Daredevils,KK Nair,12,KK Nair,29.75,117.43
+2016.0,Delhi Daredevils,MA Agarwal,3,MA Agarwal,9.0,103.85
+2016.0,Delhi Daredevils,P Negi,6,P Negi,9.5,90.48
+2016.0,Delhi Daredevils,Q de Kock,13,Q de Kock,34.23,130.88
+2016.0,Delhi Daredevils,RR Pant,10,RR Pant,19.8,127.74
+2016.0,Delhi Daredevils,SS Iyer,6,SS Iyer,5.0,65.22
+2016.0,Delhi Daredevils,SV Samson,14,SV Samson,20.79,109.81
+2016.0,Delhi Daredevils,SW Billings,4,SW Billings,22.0,133.33
+2016.0,Gujarat Lions,AD Nath,3,AD Nath,6.67,74.07
+2016.0,Gujarat Lions,AJ Finch,12,AJ Finch,32.75,126.37
+2016.0,Gujarat Lions,BB McCullum,16,BB McCullum,22.12,129.67
+2016.0,Gujarat Lions,DJ Bravo,12,DJ Bravo,8.25,112.5
+2016.0,Gujarat Lions,DR Smith,12,DR Smith,27.0,143.36
+2016.0,Gujarat Lions,DS Kulkarni,5,DS Kulkarni,5.4,168.75
+2016.0,Gujarat Lions,Ishan Kishan,5,Ishan Kishan,8.4,102.44
+2016.0,Gujarat Lions,JP Faulkner,5,JP Faulkner,15.4,128.33
+2016.0,Gujarat Lions,KD Karthik,15,KD Karthik,22.33,122.71
+2016.0,Gujarat Lions,P Kumar,6,P Kumar,4.0,88.89
+2016.0,Gujarat Lions,RA Jadeja,15,RA Jadeja,12.73,101.06
+2016.0,Gujarat Lions,SK Raina,15,SK Raina,26.6,124.3
+2016.0,Kings XI Punjab,AR Patel,10,AR Patel,11.1,137.04
+2016.0,Kings XI Punjab,DA Miller,13,DA Miller,12.38,115.83
+2016.0,Kings XI Punjab,F Behardien,3,F Behardien,4.67,107.69
+2016.0,Kings XI Punjab,GJ Maxwell,10,GJ Maxwell,17.9,138.76
+2016.0,Kings XI Punjab,Gurkeerat Singh,6,Gurkeerat Singh,18.83,129.89
+2016.0,Kings XI Punjab,HM Amla,6,HM Amla,26.17,128.69
+2016.0,Kings XI Punjab,KJ Abbott,3,KJ Abbott,4.33,162.5
+2016.0,Kings XI Punjab,M Vijay,14,M Vijay,32.36,121.45
+2016.0,Kings XI Punjab,M Vohra,7,M Vohra,23.0,118.38
+2016.0,Kings XI Punjab,MM Sharma,5,MM Sharma,6.4,118.52
+2016.0,Kings XI Punjab,MP Stoinis,5,MP Stoinis,29.2,131.53
+2016.0,Kings XI Punjab,SE Marsh,6,SE Marsh,26.5,118.66
+2016.0,Kings XI Punjab,Sandeep Sharma,4,Sandeep Sharma,2.0,88.89
+2016.0,Kings XI Punjab,WP Saha,12,WP Saha,22.5,126.17
+2016.0,Kolkata Knight Riders,AD Russell,8,AD Russell,23.5,150.4
+2016.0,Kolkata Knight Riders,C Munro,3,C Munro,10.0,96.77
+2016.0,Kolkata Knight Riders,G Gambhir,15,G Gambhir,33.4,118.16
+2016.0,Kolkata Knight Riders,JO Holder,4,JO Holder,5.5,110.0
+2016.0,Kolkata Knight Riders,MK Pandey,11,MK Pandey,22.55,130.53
+2016.0,Kolkata Knight Riders,PP Chawla,3,PP Chawla,9.0,103.85
+2016.0,Kolkata Knight Riders,R Sathish,3,R Sathish,8.0,100.0
+2016.0,Kolkata Knight Riders,RV Uthappa,15,RV Uthappa,26.27,131.33
+2016.0,Kolkata Knight Riders,SA Yadav,11,SA Yadav,16.55,122.97
+2016.0,Kolkata Knight Riders,SP Narine,3,SP Narine,2.33,50.0
+2016.0,Kolkata Knight Riders,Shakib Al Hasan,7,Shakib Al Hasan,16.29,105.56
+2016.0,Kolkata Knight Riders,YK Pathan,13,YK Pathan,27.77,141.02
+2016.0,Mumbai Indians,AT Rayudu,12,AT Rayudu,27.83,117.61
+2016.0,Mumbai Indians,HH Pandya,9,HH Pandya,4.89,66.67
+2016.0,Mumbai Indians,Harbhajan Singh,7,Harbhajan Singh,13.14,101.1
+2016.0,Mumbai Indians,JC Buttler,14,JC Buttler,18.21,134.92
+2016.0,Mumbai Indians,KA Pollard,12,KA Pollard,17.25,132.69
+2016.0,Mumbai Indians,KH Pandya,8,KH Pandya,29.62,186.61
+2016.0,Mumbai Indians,MJ Guptill,3,MJ Guptill,19.0,103.64
+2016.0,Mumbai Indians,MJ McClenaghan,4,MJ McClenaghan,8.5,147.83
+2016.0,Mumbai Indians,N Rana,3,N Rana,34.67,133.33
+2016.0,Mumbai Indians,PA Patel,10,PA Patel,17.7,109.94
+2016.0,Mumbai Indians,RG Sharma,14,RG Sharma,34.93,131.45
+2016.0,Mumbai Indians,TG Southee,4,TG Southee,7.5,150.0
+2016.0,Rising Pune Supergiants,AM Rahane,14,AM Rahane,34.29,124.03
+2016.0,Rising Pune Supergiants,F du Plessis,6,F du Plessis,34.33,121.89
+2016.0,Rising Pune Supergiants,GJ Bailey,5,GJ Bailey,16.8,84.85
+2016.0,Rising Pune Supergiants,IK Pathan,3,IK Pathan,3.67,78.57
+2016.0,Rising Pune Supergiants,KP Pietersen,4,KP Pietersen,18.25,119.67
+2016.0,Rising Pune Supergiants,MS Dhoni,12,MS Dhoni,23.67,129.09
+2016.0,Rising Pune Supergiants,NLTC Perera,10,NLTC Perera,15.0,154.64
+2016.0,Rising Pune Supergiants,R Ashwin,6,R Ashwin,6.83,107.89
+2016.0,Rising Pune Supergiants,R Bhatia,5,R Bhatia,6.8,170.0
+2016.0,Rising Pune Supergiants,SPD Smith,7,SPD Smith,38.57,146.74
+2016.0,Rising Pune Supergiants,SS Tiwary,7,SS Tiwary,24.29,114.09
+2016.0,Rising Pune Supergiants,UT Khawaja,6,UT Khawaja,21.17,120.95
+2016.0,Royal Challengers Bangalore,AB de Villiers,16,AB de Villiers,42.94,165.54
+2016.0,Royal Challengers Bangalore,CH Gayle,10,CH Gayle,22.7,142.77
+2016.0,Royal Challengers Bangalore,KL Rahul,12,KL Rahul,33.08,143.32
+2016.0,Royal Challengers Bangalore,KM Jadhav,3,KM Jadhav,14.0,127.27
+2016.0,Royal Challengers Bangalore,SN Khan,4,SN Khan,16.5,212.9
+2016.0,Royal Challengers Bangalore,SR Watson,15,SR Watson,11.93,132.59
+2016.0,Royal Challengers Bangalore,STR Binny,5,STR Binny,12.6,153.66
+2016.0,Royal Challengers Bangalore,Sachin Baby,6,Sachin Baby,19.83,145.12
+2016.0,Royal Challengers Bangalore,TM Head,3,TM Head,18.0,128.57
+2016.0,Royal Challengers Bangalore,V Kohli,16,V Kohli,60.81,148.55
+2016.0,Sunrisers Hyderabad,A Ashish Reddy,3,A Ashish Reddy,15.67,156.67
+2016.0,Sunrisers Hyderabad,B Kumar,8,B Kumar,5.38,153.57
+2016.0,Sunrisers Hyderabad,BB Sran,3,BB Sran,1.33,100.0
+2016.0,Sunrisers Hyderabad,BCJ Cutting,4,BCJ Cutting,16.25,175.68
+2016.0,Sunrisers Hyderabad,Bipul Sharma,4,Bipul Sharma,12.75,204.0
+2016.0,Sunrisers Hyderabad,DA Warner,17,DA Warner,49.88,146.46
+2016.0,Sunrisers Hyderabad,DJ Hooda,15,DJ Hooda,9.6,115.2
+2016.0,Sunrisers Hyderabad,EJG Morgan,6,EJG Morgan,20.5,117.14
+2016.0,Sunrisers Hyderabad,KS Williamson,6,KS Williamson,20.67,98.41
+2016.0,Sunrisers Hyderabad,KV Sharma,3,KV Sharma,12.0,105.88
+2016.0,Sunrisers Hyderabad,MC Henriques,15,MC Henriques,12.13,112.35
+2016.0,Sunrisers Hyderabad,NV Ojha,13,NV Ojha,10.46,95.77
+2016.0,Sunrisers Hyderabad,S Dhawan,17,S Dhawan,29.47,114.38
+2016.0,Sunrisers Hyderabad,Yuvraj Singh,10,Yuvraj Singh,23.6,128.96
+2017.0,Delhi Daredevils,A Mishra,6,A Mishra,8.17,87.5
+2017.0,Delhi Daredevils,AP Tare,3,AP Tare,6.0,72.0
+2017.0,Delhi Daredevils,CH Morris,8,CH Morris,19.25,158.76
+2017.0,Delhi Daredevils,CJ Anderson,11,CJ Anderson,12.91,109.23
+2017.0,Delhi Daredevils,K Rabada,3,K Rabada,18.33,80.88
+2017.0,Delhi Daredevils,KK Nair,13,KK Nair,21.62,122.71
+2017.0,Delhi Daredevils,MN Samuels,4,MN Samuels,7.25,90.62
+2017.0,Delhi Daredevils,Mohammed Shami,6,Mohammed Shami,6.0,150.0
+2017.0,Delhi Daredevils,PJ Cummins,8,PJ Cummins,9.62,142.59
+2017.0,Delhi Daredevils,RR Pant,14,RR Pant,26.14,161.95
+2017.0,Delhi Daredevils,S Nadeem,3,S Nadeem,0.67,22.22
+2017.0,Delhi Daredevils,SS Iyer,12,SS Iyer,28.17,135.74
+2017.0,Delhi Daredevils,SV Samson,14,SV Samson,27.57,140.36
+2017.0,Delhi Daredevils,SW Billings,6,SW Billings,23.0,128.97
+2017.0,Delhi Daredevils,Z Khan,3,Z Khan,1.33,30.77
+2017.0,Gujarat Lions,AJ Finch,13,AJ Finch,23.08,157.89
+2017.0,Gujarat Lions,AJ Tye,3,AJ Tye,17.67,176.67
+2017.0,Gujarat Lions,Ankit Soni,3,Ankit Soni,2.33,77.78
+2017.0,Gujarat Lions,BB McCullum,11,BB McCullum,29.09,140.97
+2017.0,Gujarat Lions,Basil Thampi,5,Basil Thampi,5.6,93.33
+2017.0,Gujarat Lions,DR Smith,11,DR Smith,21.73,151.27
+2017.0,Gujarat Lions,Ishan Kishan,10,Ishan Kishan,27.7,129.44
+2017.0,Gujarat Lions,JJ Roy,3,JJ Roy,19.67,143.9
+2017.0,Gujarat Lions,JP Faulkner,6,JP Faulkner,9.0,90.0
+2017.0,Gujarat Lions,KD Karthik,13,KD Karthik,27.77,134.7
+2017.0,Gujarat Lions,PJ Sangwan,3,PJ Sangwan,0.67,50.0
+2017.0,Gujarat Lions,RA Jadeja,10,RA Jadeja,15.8,133.9
+2017.0,Gujarat Lions,SK Raina,14,SK Raina,31.57,142.58
+2017.0,Kings XI Punjab,AR Patel,13,AR Patel,17.46,132.75
+2017.0,Kings XI Punjab,DA Miller,4,DA Miller,20.75,101.22
+2017.0,Kings XI Punjab,EJG Morgan,4,EJG Morgan,16.25,104.84
+2017.0,Kings XI Punjab,GJ Maxwell,13,GJ Maxwell,23.85,166.67
+2017.0,Kings XI Punjab,HM Amla,10,HM Amla,42.0,141.89
+2017.0,Kings XI Punjab,I Sharma,3,I Sharma,2.67,61.54
+2017.0,Kings XI Punjab,M Vohra,9,M Vohra,25.44,134.71
+2017.0,Kings XI Punjab,MJ Guptill,7,MJ Guptill,18.86,150.0
+2017.0,Kings XI Punjab,MM Sharma,7,MM Sharma,7.29,100.0
+2017.0,Kings XI Punjab,MP Stoinis,3,MP Stoinis,5.67,68.0
+2017.0,Kings XI Punjab,SE Marsh,8,SE Marsh,33.0,133.33
+2017.0,Kings XI Punjab,WP Saha,11,WP Saha,21.27,120.62
+2017.0,Kolkata Knight Riders,C de Grandhomme,9,C de Grandhomme,14.0,136.96
+2017.0,Kolkata Knight Riders,CA Lynn,7,CA Lynn,42.14,168.57
+2017.0,Kolkata Knight Riders,CR Woakes,7,CR Woakes,6.57,97.87
+2017.0,Kolkata Knight Riders,G Gambhir,16,G Gambhir,31.12,122.96
+2017.0,Kolkata Knight Riders,MK Pandey,12,MK Pandey,33.0,125.71
+2017.0,Kolkata Knight Riders,NM Coulter-Nile,3,NM Coulter-Nile,4.67,107.69
+2017.0,Kolkata Knight Riders,RV Uthappa,13,RV Uthappa,29.85,162.34
+2017.0,Kolkata Knight Riders,SA Yadav,7,SA Yadav,15.0,117.98
+2017.0,Kolkata Knight Riders,SP Jackson,3,SP Jackson,12.67,122.58
+2017.0,Kolkata Knight Riders,SP Narine,14,SP Narine,16.0,165.93
+2017.0,Kolkata Knight Riders,UT Yadav,4,UT Yadav,2.5,76.92
+2017.0,Kolkata Knight Riders,YK Pathan,11,YK Pathan,13.0,116.26
+2017.0,Mumbai Indians,AT Rayudu,5,AT Rayudu,18.2,113.75
+2017.0,Mumbai Indians,HH Pandya,16,HH Pandya,15.62,145.35
+2017.0,Mumbai Indians,Harbhajan Singh,7,Harbhajan Singh,2.29,94.12
+2017.0,Mumbai Indians,JC Buttler,10,JC Buttler,27.3,146.77
+2017.0,Mumbai Indians,KA Pollard,16,KA Pollard,24.69,134.35
+2017.0,Mumbai Indians,KH Pandya,11,KH Pandya,22.09,130.65
+2017.0,Mumbai Indians,KV Sharma,6,KV Sharma,8.17,116.67
+2017.0,Mumbai Indians,LMP Simmons,7,LMP Simmons,19.57,118.1
+2017.0,Mumbai Indians,MJ McClenaghan,5,MJ McClenaghan,3.2,100.0
+2017.0,Mumbai Indians,N Rana,12,N Rana,27.75,120.22
+2017.0,Mumbai Indians,PA Patel,16,PA Patel,24.69,128.25
+2017.0,Mumbai Indians,RG Sharma,16,RG Sharma,20.81,119.78
+2017.0,Rising Pune Supergiant,AM Rahane,16,AM Rahane,23.88,116.46
+2017.0,Rising Pune Supergiant,BA Stokes,11,BA Stokes,28.73,139.21
+2017.0,Rising Pune Supergiant,DT Christian,9,DT Christian,8.78,151.92
+2017.0,Rising Pune Supergiant,MA Agarwal,3,MA Agarwal,8.67,89.66
+2017.0,Rising Pune Supergiant,MK Tiwary,13,MK Tiwary,24.92,133.88
+2017.0,Rising Pune Supergiant,MS Dhoni,15,MS Dhoni,19.33,111.11
+2017.0,Rising Pune Supergiant,RA Tripathi,14,RA Tripathi,27.93,142.18
+2017.0,Rising Pune Supergiant,SN Thakur,3,SN Thakur,0.0,0.0
+2017.0,Rising Pune Supergiant,SPD Smith,15,SPD Smith,31.47,118.0
+2017.0,Rising Pune Supergiant,Washington Sundar,5,Washington Sundar,1.8,75.0
+2017.0,Royal Challengers Bangalore,A Choudhary,3,A Choudhary,8.33,125.0
+2017.0,Royal Challengers Bangalore,AB de Villiers,9,AB de Villiers,24.0,126.32
+2017.0,Royal Challengers Bangalore,AF Milne,3,AF Milne,2.33,58.33
+2017.0,Royal Challengers Bangalore,CH Gayle,9,CH Gayle,22.22,116.28
+2017.0,Royal Challengers Bangalore,KM Jadhav,13,KM Jadhav,20.54,137.63
+2017.0,Royal Challengers Bangalore,Mandeep Singh,10,Mandeep Singh,18.8,105.62
+2017.0,Royal Challengers Bangalore,P Negi,10,P Negi,14.4,126.32
+2017.0,Royal Challengers Bangalore,S Aravind,6,S Aravind,5.33,80.0
+2017.0,Royal Challengers Bangalore,S Badree,5,S Badree,2.6,52.0
+2017.0,Royal Challengers Bangalore,SR Watson,7,SR Watson,10.14,88.75
+2017.0,Royal Challengers Bangalore,STR Binny,7,STR Binny,11.14,101.3
+2017.0,Royal Challengers Bangalore,Sachin Baby,3,Sachin Baby,5.0,88.24
+2017.0,Royal Challengers Bangalore,TM Head,7,TM Head,21.57,138.53
+2017.0,Royal Challengers Bangalore,TS Mills,3,TS Mills,2.67,72.73
+2017.0,Royal Challengers Bangalore,V Kohli,10,V Kohli,30.8,119.84
+2017.0,Royal Challengers Bangalore,Vishnu Vinod,3,Vishnu Vinod,6.33,73.08
+2017.0,Royal Challengers Bangalore,YS Chahal,6,YS Chahal,2.17,50.0
+2017.0,Sunrisers Hyderabad,BCJ Cutting,3,BCJ Cutting,17.0,188.89
+2017.0,Sunrisers Hyderabad,Bipul Sharma,3,Bipul Sharma,10.33,124.0
+2017.0,Sunrisers Hyderabad,DA Warner,14,DA Warner,45.79,138.74
+2017.0,Sunrisers Hyderabad,DJ Hooda,6,DJ Hooda,13.0,147.17
+2017.0,Sunrisers Hyderabad,KS Williamson,7,KS Williamson,36.57,150.59
+2017.0,Sunrisers Hyderabad,MC Henriques,11,MC Henriques,25.18,135.12
+2017.0,Sunrisers Hyderabad,NV Ojha,5,NV Ojha,15.8,112.86
+2017.0,Sunrisers Hyderabad,Rashid Khan,3,Rashid Khan,3.67,122.22
+2017.0,Sunrisers Hyderabad,S Dhawan,14,S Dhawan,34.21,125.07
+2017.0,Sunrisers Hyderabad,V Shankar,4,V Shankar,25.25,131.17
+2017.0,Sunrisers Hyderabad,Yuvraj Singh,11,Yuvraj Singh,22.91,134.04
+2018.0,Chennai Super Kings,AT Rayudu,16,AT Rayudu,37.62,146.83
+2018.0,Chennai Super Kings,DJ Bravo,10,DJ Bravo,14.1,151.61
+2018.0,Chennai Super Kings,DL Chahar,4,DL Chahar,12.5,166.67
+2018.0,Chennai Super Kings,F du Plessis,6,F du Plessis,27.0,124.62
+2018.0,Chennai Super Kings,Harbhajan Singh,3,Harbhajan Singh,9.67,76.32
+2018.0,Chennai Super Kings,MS Dhoni,15,MS Dhoni,30.33,141.74
+2018.0,Chennai Super Kings,RA Jadeja,8,RA Jadeja,11.12,111.25
+2018.0,Chennai Super Kings,SK Raina,15,SK Raina,29.67,125.71
+2018.0,Chennai Super Kings,SR Watson,15,SR Watson,37.0,150.82
+2018.0,Chennai Super Kings,SW Billings,8,SW Billings,13.5,138.46
+2018.0,Delhi Daredevils,Abhishek Sharma,3,Abhishek Sharma,21.0,180.0
+2018.0,Delhi Daredevils,C Munro,4,C Munro,15.75,153.66
+2018.0,Delhi Daredevils,CH Morris,3,CH Morris,15.33,176.92
+2018.0,Delhi Daredevils,DT Christian,3,DT Christian,8.67,78.79
+2018.0,Delhi Daredevils,G Gambhir,5,G Gambhir,17.0,93.41
+2018.0,Delhi Daredevils,GJ Maxwell,12,GJ Maxwell,14.08,138.52
+2018.0,Delhi Daredevils,JJ Roy,5,JJ Roy,24.0,122.45
+2018.0,Delhi Daredevils,PP Shaw,9,PP Shaw,27.22,148.48
+2018.0,Delhi Daredevils,R Tewatia,5,R Tewatia,10.0,106.38
+2018.0,Delhi Daredevils,RR Pant,14,RR Pant,48.86,166.02
+2018.0,Delhi Daredevils,SS Iyer,13,SS Iyer,31.62,129.65
+2018.0,Delhi Daredevils,V Shankar,9,V Shankar,23.56,135.9
+2018.0,Kings XI Punjab,AJ Finch,9,AJ Finch,14.89,131.37
+2018.0,Kings XI Punjab,AJ Tye,8,AJ Tye,4.0,80.0
+2018.0,Kings XI Punjab,AR Patel,8,AR Patel,10.0,112.68
+2018.0,Kings XI Punjab,AS Rajpoot,3,AS Rajpoot,3.67,61.11
+2018.0,Kings XI Punjab,BB Sran,3,BB Sran,1.0,42.86
+2018.0,Kings XI Punjab,CH Gayle,11,CH Gayle,33.45,141.0
+2018.0,Kings XI Punjab,DA Miller,3,DA Miller,24.67,112.12
+2018.0,Kings XI Punjab,KK Nair,12,KK Nair,25.08,133.78
+2018.0,Kings XI Punjab,KL Rahul,14,KL Rahul,47.07,154.69
+2018.0,Kings XI Punjab,MA Agarwal,11,MA Agarwal,10.91,127.66
+2018.0,Kings XI Punjab,MK Tiwary,4,MK Tiwary,11.75,104.44
+2018.0,Kings XI Punjab,MM Sharma,4,MM Sharma,2.5,71.43
+2018.0,Kings XI Punjab,MP Stoinis,7,MP Stoinis,14.14,126.92
+2018.0,Kings XI Punjab,R Ashwin,8,R Ashwin,12.75,134.21
+2018.0,Kings XI Punjab,Yuvraj Singh,6,Yuvraj Singh,10.83,87.84
+2018.0,Kolkata Knight Riders,AD Russell,14,AD Russell,22.57,176.54
+2018.0,Kolkata Knight Riders,CA Lynn,16,CA Lynn,30.69,128.53
+2018.0,Kolkata Knight Riders,KD Karthik,16,KD Karthik,31.12,142.69
+2018.0,Kolkata Knight Riders,Kuldeep Yadav,3,Kuldeep Yadav,4.0,48.0
+2018.0,Kolkata Knight Riders,N Rana,15,N Rana,20.27,127.73
+2018.0,Kolkata Knight Riders,PP Chawla,5,PP Chawla,5.4,75.0
+2018.0,Kolkata Knight Riders,RK Singh,4,RK Singh,7.25,85.29
+2018.0,Kolkata Knight Riders,RV Uthappa,16,RV Uthappa,21.94,128.1
+2018.0,Kolkata Knight Riders,SP Narine,16,SP Narine,22.31,180.3
+2018.0,Kolkata Knight Riders,Shivam Mavi,3,Shivam Mavi,4.33,86.67
+2018.0,Kolkata Knight Riders,Shubman Gill,10,Shubman Gill,20.3,142.96
+2018.0,Kolkata Knight Riders,TK Curran,4,TK Curran,5.75,82.14
+2018.0,Mumbai Indians,BCJ Cutting,6,BCJ Cutting,16.0,162.71
+2018.0,Mumbai Indians,E Lewis,13,E Lewis,29.38,131.72
+2018.0,Mumbai Indians,HH Pandya,13,HH Pandya,20.0,126.83
+2018.0,Mumbai Indians,Ishan Kishan,12,Ishan Kishan,22.92,147.06
+2018.0,Mumbai Indians,JJ Bumrah,3,JJ Bumrah,3.33,90.91
+2018.0,Mumbai Indians,KA Pollard,8,KA Pollard,16.62,127.88
+2018.0,Mumbai Indians,KH Pandya,13,KH Pandya,17.54,139.02
+2018.0,Mumbai Indians,M Markande,6,M Markande,3.5,84.0
+2018.0,Mumbai Indians,MJ McClenaghan,4,MJ McClenaghan,2.75,91.67
+2018.0,Mumbai Indians,RG Sharma,14,RG Sharma,20.43,128.25
+2018.0,Mumbai Indians,SA Yadav,14,SA Yadav,36.57,130.95
+2018.0,Rajasthan Royals,AM Rahane,14,AM Rahane,26.43,115.26
+2018.0,Rajasthan Royals,BA Stokes,12,BA Stokes,16.33,118.07
+2018.0,Rajasthan Royals,DJM Short,7,DJM Short,16.43,112.75
+2018.0,Rajasthan Royals,H Klaasen,4,H Klaasen,14.25,118.75
+2018.0,Rajasthan Royals,JC Archer,6,JC Archer,2.5,71.43
+2018.0,Rajasthan Royals,JC Buttler,13,JC Buttler,42.15,150.14
+2018.0,Rajasthan Royals,JD Unadkat,5,JD Unadkat,9.8,128.95
+2018.0,Rajasthan Royals,K Gowtham,13,K Gowtham,9.69,188.06
+2018.0,Rajasthan Royals,RA Tripathi,12,RA Tripathi,18.83,130.64
+2018.0,Rajasthan Royals,S Gopal,4,S Gopal,12.5,106.38
+2018.0,Rajasthan Royals,STR Binny,5,STR Binny,8.8,112.82
+2018.0,Rajasthan Royals,SV Samson,15,SV Samson,29.4,135.69
+2018.0,Royal Challengers Bangalore,AB de Villiers,11,AB de Villiers,43.64,171.43
+2018.0,Royal Challengers Bangalore,BB McCullum,6,BB McCullum,21.17,139.56
+2018.0,Royal Challengers Bangalore,C de Grandhomme,8,C de Grandhomme,16.38,150.57
+2018.0,Royal Challengers Bangalore,CJ Anderson,3,CJ Anderson,5.67,77.27
+2018.0,Royal Challengers Bangalore,CR Woakes,4,CR Woakes,4.25,89.47
+2018.0,Royal Challengers Bangalore,M Vohra,4,M Vohra,13.75,110.0
+2018.0,Royal Challengers Bangalore,MM Ali,4,MM Ali,19.25,167.39
+2018.0,Royal Challengers Bangalore,Mandeep Singh,13,Mandeep Singh,19.38,130.57
+2018.0,Royal Challengers Bangalore,Mohammed Siraj,3,Mohammed Siraj,8.33,108.7
+2018.0,Royal Challengers Bangalore,PA Patel,6,PA Patel,25.5,140.37
+2018.0,Royal Challengers Bangalore,Q de Kock,8,Q de Kock,25.12,122.56
+2018.0,Royal Challengers Bangalore,SN Khan,6,SN Khan,8.5,118.6
+2018.0,Royal Challengers Bangalore,TG Southee,4,TG Southee,13.0,113.04
+2018.0,Royal Challengers Bangalore,UT Yadav,5,UT Yadav,0.6,25.0
+2018.0,Royal Challengers Bangalore,V Kohli,14,V Kohli,37.86,137.66
+2018.0,Royal Challengers Bangalore,Washington Sundar,5,Washington Sundar,13.0,162.5
+2018.0,Sunrisers Hyderabad,AD Hales,6,AD Hales,24.67,124.37
+2018.0,Sunrisers Hyderabad,B Kumar,4,B Kumar,3.25,72.22
+2018.0,Sunrisers Hyderabad,CR Brathwaite,4,CR Brathwaite,18.75,138.89
+2018.0,Sunrisers Hyderabad,DJ Hooda,8,DJ Hooda,10.88,101.16
+2018.0,Sunrisers Hyderabad,KS Williamson,17,KS Williamson,43.24,140.8
+2018.0,Sunrisers Hyderabad,MK Pandey,13,MK Pandey,21.85,110.51
+2018.0,Sunrisers Hyderabad,Rashid Khan,7,Rashid Khan,8.43,184.38
+2018.0,Sunrisers Hyderabad,S Dhawan,16,S Dhawan,31.06,131.13
+2018.0,Sunrisers Hyderabad,S Kaul,3,S Kaul,1.0,21.43
+2018.0,Sunrisers Hyderabad,SP Goswami,3,SP Goswami,17.33,123.81
+2018.0,Sunrisers Hyderabad,Sandeep Sharma,3,Sandeep Sharma,0.0,0.0
+2018.0,Sunrisers Hyderabad,Shakib Al Hasan,13,Shakib Al Hasan,18.38,117.73
+2018.0,Sunrisers Hyderabad,WP Saha,10,WP Saha,12.2,112.96
+2018.0,Sunrisers Hyderabad,YK Pathan,13,YK Pathan,20.0,123.22
+2019.0,Chennai Super Kings,AT Rayudu,17,AT Rayudu,16.59,91.86
+2019.0,Chennai Super Kings,DJ Bravo,8,DJ Bravo,10.0,117.65
+2019.0,Chennai Super Kings,F du Plessis,12,F du Plessis,33.0,121.47
+2019.0,Chennai Super Kings,KM Jadhav,12,KM Jadhav,13.5,94.19
+2019.0,Chennai Super Kings,MS Dhoni,12,MS Dhoni,34.67,131.23
+2019.0,Chennai Super Kings,RA Jadeja,9,RA Jadeja,11.78,112.77
+2019.0,Chennai Super Kings,SK Raina,17,SK Raina,22.53,119.31
+2019.0,Chennai Super Kings,SR Watson,17,SR Watson,23.41,123.99
+2019.0,Delhi Capitals,A Mishra,4,A Mishra,5.25,80.77
+2019.0,Delhi Capitals,AR Patel,12,AR Patel,9.17,122.22
+2019.0,Delhi Capitals,C Munro,4,C Munro,21.0,116.67
+2019.0,Delhi Capitals,CA Ingram,12,CA Ingram,15.33,117.2
+2019.0,Delhi Capitals,CH Morris,6,CH Morris,5.33,84.21
+2019.0,Delhi Capitals,K Rabada,4,K Rabada,3.5,93.33
+2019.0,Delhi Capitals,KMA Paul,5,KMA Paul,3.6,69.23
+2019.0,Delhi Capitals,PP Shaw,16,PP Shaw,22.06,130.74
+2019.0,Delhi Capitals,R Tewatia,4,R Tewatia,6.5,118.18
+2019.0,Delhi Capitals,RR Pant,16,RR Pant,30.88,158.84
+2019.0,Delhi Capitals,S Dhawan,16,S Dhawan,32.56,133.25
+2019.0,Delhi Capitals,SE Rutherford,7,SE Rutherford,10.43,132.73
+2019.0,Delhi Capitals,SS Iyer,16,SS Iyer,29.19,117.04
+2019.0,Kings XI Punjab,CH Gayle,13,CH Gayle,37.69,144.97
+2019.0,Kings XI Punjab,DA Miller,10,DA Miller,21.3,122.41
+2019.0,Kings XI Punjab,GC Viljoen,3,GC Viljoen,1.0,42.86
+2019.0,Kings XI Punjab,KL Rahul,14,KL Rahul,42.36,132.66
+2019.0,Kings XI Punjab,M Ashwin,3,M Ashwin,1.0,60.0
+2019.0,Kings XI Punjab,MA Agarwal,13,MA Agarwal,25.54,137.76
+2019.0,Kings XI Punjab,Mandeep Singh,12,Mandeep Singh,13.75,135.25
+2019.0,Kings XI Punjab,N Pooran,6,N Pooran,28.0,152.73
+2019.0,Kings XI Punjab,R Ashwin,6,R Ashwin,7.0,150.0
+2019.0,Kings XI Punjab,SM Curran,8,SM Curran,11.88,172.73
+2019.0,Kings XI Punjab,SN Khan,5,SN Khan,36.0,124.14
+2019.0,Kolkata Knight Riders,AD Russell,13,AD Russell,39.54,187.59
+2019.0,Kolkata Knight Riders,CA Lynn,13,CA Lynn,31.15,136.82
+2019.0,Kolkata Knight Riders,KD Karthik,12,KD Karthik,21.17,141.11
+2019.0,Kolkata Knight Riders,Kuldeep Yadav,3,Kuldeep Yadav,4.0,150.0
+2019.0,Kolkata Knight Riders,N Rana,11,N Rana,31.27,143.33
+2019.0,Kolkata Knight Riders,PP Chawla,5,PP Chawla,8.4,110.53
+2019.0,Kolkata Knight Riders,RK Singh,3,RK Singh,12.33,108.82
+2019.0,Kolkata Knight Riders,RV Uthappa,11,RV Uthappa,25.82,110.94
+2019.0,Kolkata Knight Riders,SP Narine,8,SP Narine,17.88,158.89
+2019.0,Kolkata Knight Riders,Shubman Gill,13,Shubman Gill,22.77,122.31
+2019.0,Mumbai Indians,BCJ Cutting,3,BCJ Cutting,6.0,105.88
+2019.0,Mumbai Indians,E Lewis,3,E Lewis,16.0,90.57
+2019.0,Mumbai Indians,HH Pandya,15,HH Pandya,27.27,181.78
+2019.0,Mumbai Indians,Ishan Kishan,6,Ishan Kishan,16.83,97.12
+2019.0,Mumbai Indians,KA Pollard,12,KA Pollard,23.42,151.08
+2019.0,Mumbai Indians,KH Pandya,14,KH Pandya,13.07,115.82
+2019.0,Mumbai Indians,MJ McClenaghan,4,MJ McClenaghan,2.75,68.75
+2019.0,Mumbai Indians,Q de Kock,16,Q de Kock,33.06,130.94
+2019.0,Mumbai Indians,RD Chahar,4,RD Chahar,3.0,109.09
+2019.0,Mumbai Indians,RG Sharma,15,RG Sharma,27.0,126.96
+2019.0,Mumbai Indians,SA Yadav,15,SA Yadav,28.27,129.66
+2019.0,Mumbai Indians,Yuvraj Singh,4,Yuvraj Singh,24.5,118.07
+2019.0,Rajasthan Royals,AJ Turner,4,AJ Turner,0.75,27.27
+2019.0,Rajasthan Royals,AM Rahane,13,AM Rahane,30.23,135.99
+2019.0,Rajasthan Royals,BA Stokes,9,BA Stokes,13.67,123.0
+2019.0,Rajasthan Royals,JC Archer,5,JC Archer,13.4,163.41
+2019.0,Rajasthan Royals,JC Buttler,8,JC Buttler,38.88,146.01
+2019.0,Rajasthan Royals,K Gowtham,4,K Gowtham,4.5,94.74
+2019.0,Rajasthan Royals,LS Livingstone,3,LS Livingstone,19.67,143.9
+2019.0,Rajasthan Royals,R Parag,5,R Parag,32.0,120.3
+2019.0,Rajasthan Royals,RA Tripathi,7,RA Tripathi,20.14,115.57
+2019.0,Rajasthan Royals,S Gopal,7,S Gopal,9.0,136.96
+2019.0,Rajasthan Royals,SPD Smith,10,SPD Smith,31.9,112.72
+2019.0,Rajasthan Royals,STR Binny,5,STR Binny,14.0,166.67
+2019.0,Rajasthan Royals,SV Samson,10,SV Samson,31.4,139.56
+2019.0,Royal Challengers Bangalore,AB de Villiers,12,AB de Villiers,36.0,148.97
+2019.0,Royal Challengers Bangalore,AD Nath,5,AD Nath,12.2,105.17
+2019.0,Royal Challengers Bangalore,C de Grandhomme,4,C de Grandhomme,11.5,92.0
+2019.0,Royal Challengers Bangalore,MM Ali,10,MM Ali,22.0,160.58
+2019.0,Royal Challengers Bangalore,MP Stoinis,9,MP Stoinis,23.44,133.54
+2019.0,Royal Challengers Bangalore,Mohammed Siraj,3,Mohammed Siraj,1.33,26.67
+2019.0,Royal Challengers Bangalore,P Negi,3,P Negi,1.67,55.56
+2019.0,Royal Challengers Bangalore,PA Patel,13,PA Patel,28.08,136.19
+2019.0,Royal Challengers Bangalore,S Dube,4,S Dube,10.0,121.21
+2019.0,Royal Challengers Bangalore,SO Hetmyer,5,SO Hetmyer,18.0,118.42
+2019.0,Royal Challengers Bangalore,UT Yadav,5,UT Yadav,5.0,96.15
+2019.0,Royal Challengers Bangalore,V Kohli,13,V Kohli,33.77,135.08
+2019.0,Royal Challengers Bangalore,YS Chahal,3,YS Chahal,2.0,37.5
+2019.0,Sunrisers Hyderabad,Abhishek Sharma,3,Abhishek Sharma,3.0,90.0
+2019.0,Sunrisers Hyderabad,B Kumar,4,B Kumar,3.0,63.16
+2019.0,Sunrisers Hyderabad,DA Warner,12,DA Warner,57.67,139.52
+2019.0,Sunrisers Hyderabad,DJ Hooda,7,DJ Hooda,9.14,94.12
+2019.0,Sunrisers Hyderabad,JM Bairstow,10,JM Bairstow,44.5,152.4
+2019.0,Sunrisers Hyderabad,KS Williamson,9,KS Williamson,17.33,116.42
+2019.0,Sunrisers Hyderabad,MJ Guptill,3,MJ Guptill,27.33,151.85
+2019.0,Sunrisers Hyderabad,MK Pandey,11,MK Pandey,31.36,128.73
+2019.0,Sunrisers Hyderabad,Mohammad Nabi,7,Mohammad Nabi,17.29,149.38
+2019.0,Sunrisers Hyderabad,Rashid Khan,7,Rashid Khan,4.86,130.77
+2019.0,Sunrisers Hyderabad,V Shankar,14,V Shankar,17.43,124.49
+2019.0,Sunrisers Hyderabad,WP Saha,5,WP Saha,17.2,156.36
+2019.0,Sunrisers Hyderabad,YK Pathan,7,YK Pathan,5.71,85.11
+2020.0,Chennai Super Kings,AT Rayudu,11,AT Rayudu,32.64,124.22
+2020.0,Chennai Super Kings,DL Chahar,3,DL Chahar,2.33,58.33
+2020.0,Chennai Super Kings,F du Plessis,13,F du Plessis,34.54,136.47
+2020.0,Chennai Super Kings,KM Jadhav,5,KM Jadhav,12.4,91.18
+2020.0,Chennai Super Kings,M Vijay,3,M Vijay,10.67,72.73
+2020.0,Chennai Super Kings,MS Dhoni,12,MS Dhoni,16.67,114.29
+2020.0,Chennai Super Kings,RA Jadeja,11,RA Jadeja,21.09,163.38
+2020.0,Chennai Super Kings,RD Gaikwad,6,RD Gaikwad,34.0,117.92
+2020.0,Chennai Super Kings,SM Curran,11,SM Curran,16.91,128.28
+2020.0,Chennai Super Kings,SR Watson,11,SR Watson,27.18,117.72
+2020.0,Delhi Capitals,A Nortje,3,A Nortje,2.33,116.67
+2020.0,Delhi Capitals,AM Rahane,8,AM Rahane,14.12,100.0
+2020.0,Delhi Capitals,AR Patel,9,AR Patel,13.0,130.0
+2020.0,Delhi Capitals,AT Carey,3,AT Carey,10.67,110.34
+2020.0,Delhi Capitals,K Rabada,6,K Rabada,9.33,107.69
+2020.0,Delhi Capitals,MP Stoinis,17,MP Stoinis,20.71,140.8
+2020.0,Delhi Capitals,PP Shaw,13,PP Shaw,17.54,134.12
+2020.0,Delhi Capitals,R Ashwin,5,R Ashwin,7.4,108.82
+2020.0,Delhi Capitals,RR Pant,14,RR Pant,24.64,108.15
+2020.0,Delhi Capitals,S Dhawan,17,S Dhawan,36.35,142.73
+2020.0,Delhi Capitals,SO Hetmyer,11,SO Hetmyer,16.82,145.67
+2020.0,Delhi Capitals,SS Iyer,17,SS Iyer,30.53,119.86
+2020.0,Kings XI Punjab,CH Gayle,7,CH Gayle,42.14,131.11
+2020.0,Kings XI Punjab,CJ Jordan,4,CJ Jordan,7.25,87.88
+2020.0,Kings XI Punjab,DJ Hooda,5,DJ Hooda,20.4,137.84
+2020.0,Kings XI Punjab,GJ Maxwell,11,GJ Maxwell,9.82,96.43
+2020.0,Kings XI Punjab,JDS Neesham,3,JDS Neesham,6.33,105.56
+2020.0,Kings XI Punjab,KK Nair,3,KK Nair,5.33,114.29
+2020.0,Kings XI Punjab,KL Rahul,14,KL Rahul,48.29,127.31
+2020.0,Kings XI Punjab,MA Agarwal,11,MA Agarwal,39.27,151.58
+2020.0,Kings XI Punjab,Mandeep Singh,7,Mandeep Singh,18.57,117.12
+2020.0,Kings XI Punjab,N Pooran,14,N Pooran,25.21,164.19
+2020.0,Kings XI Punjab,SN Khan,3,SN Khan,11.0,110.0
+2020.0,Kolkata Knight Riders,AD Russell,9,AD Russell,13.0,142.68
+2020.0,Kolkata Knight Riders,CV Varun,3,CV Varun,3.33,62.5
+2020.0,Kolkata Knight Riders,EJG Morgan,14,EJG Morgan,29.93,133.44
+2020.0,Kolkata Knight Riders,KD Karthik,14,KD Karthik,12.07,123.36
+2020.0,Kolkata Knight Riders,KL Nagarkoti,6,KL Nagarkoti,3.67,68.75
+2020.0,Kolkata Knight Riders,N Rana,14,N Rana,25.14,135.38
+2020.0,Kolkata Knight Riders,PJ Cummins,10,PJ Cummins,14.6,121.67
+2020.0,Kolkata Knight Riders,RA Tripathi,11,RA Tripathi,20.91,123.66
+2020.0,Kolkata Knight Riders,SP Narine,9,SP Narine,13.44,131.52
+2020.0,Kolkata Knight Riders,Shivam Mavi,3,Shivam Mavi,3.33,71.43
+2020.0,Kolkata Knight Riders,Shubman Gill,14,Shubman Gill,31.43,115.18
+2020.0,Mumbai Indians,HH Pandya,13,HH Pandya,21.77,169.46
+2020.0,Mumbai Indians,Ishan Kishan,13,Ishan Kishan,39.69,142.94
+2020.0,Mumbai Indians,KA Pollard,12,KA Pollard,23.42,178.98
+2020.0,Mumbai Indians,KH Pandya,11,KH Pandya,9.91,118.48
+2020.0,Mumbai Indians,Q de Kock,16,Q de Kock,31.62,137.5
+2020.0,Mumbai Indians,RG Sharma,12,RG Sharma,27.83,121.45
+2020.0,Mumbai Indians,SA Yadav,15,SA Yadav,32.0,141.18
+2020.0,Mumbai Indians,SS Tiwary,5,SS Tiwary,20.6,127.16
+2020.0,Rajasthan Royals,BA Stokes,8,BA Stokes,35.62,137.68
+2020.0,Rajasthan Royals,JC Archer,10,JC Archer,11.3,171.21
+2020.0,Rajasthan Royals,JC Buttler,12,JC Buttler,27.33,140.77
+2020.0,Rajasthan Royals,MK Lomror,3,MK Lomror,19.67,109.26
+2020.0,Rajasthan Royals,R Parag,8,R Parag,10.75,106.17
+2020.0,Rajasthan Royals,R Tewatia,11,R Tewatia,23.18,136.36
+2020.0,Rajasthan Royals,RV Uthappa,12,RV Uthappa,16.33,115.29
+2020.0,Rajasthan Royals,S Gopal,5,S Gopal,7.4,90.24
+2020.0,Rajasthan Royals,SPD Smith,14,SPD Smith,22.21,125.91
+2020.0,Rajasthan Royals,SV Samson,14,SV Samson,26.79,154.96
+2020.0,Rajasthan Royals,TK Curran,4,TK Curran,20.75,131.75
+2020.0,Rajasthan Royals,YBK Jaiswal,3,YBK Jaiswal,13.33,90.91
+2020.0,Royal Challengers Bangalore,AB de Villiers,14,AB de Villiers,32.86,155.41
+2020.0,Royal Challengers Bangalore,AJ Finch,12,AJ Finch,22.33,105.51
+2020.0,Royal Challengers Bangalore,CH Morris,5,CH Morris,6.8,161.9
+2020.0,Royal Challengers Bangalore,D Padikkal,15,D Padikkal,31.53,118.84
+2020.0,Royal Challengers Bangalore,Gurkeerat Singh,5,Gurkeerat Singh,14.2,85.54
+2020.0,Royal Challengers Bangalore,I Udana,4,I Udana,3.75,136.36
+2020.0,Royal Challengers Bangalore,JR Philippe,5,JR Philippe,15.6,97.5
+2020.0,Royal Challengers Bangalore,MM Ali,3,MM Ali,4.0,75.0
+2020.0,Royal Challengers Bangalore,Mohammed Siraj,3,Mohammed Siraj,5.67,121.43
+2020.0,Royal Challengers Bangalore,Navdeep Saini,3,Navdeep Saini,9.0,100.0
+2020.0,Royal Challengers Bangalore,S Dube,9,S Dube,14.33,118.35
+2020.0,Royal Challengers Bangalore,V Kohli,15,V Kohli,31.4,117.16
+2020.0,Royal Challengers Bangalore,Washington Sundar,9,Washington Sundar,12.33,113.27
+2020.0,Sunrisers Hyderabad,Abdul Samad,7,Abdul Samad,16.14,166.18
+2020.0,Sunrisers Hyderabad,Abhishek Sharma,7,Abhishek Sharma,10.14,120.34
+2020.0,Sunrisers Hyderabad,DA Warner,16,DA Warner,34.25,129.55
+2020.0,Sunrisers Hyderabad,JM Bairstow,11,JM Bairstow,31.36,121.48
+2020.0,Sunrisers Hyderabad,JO Holder,4,JO Holder,16.5,122.22
+2020.0,Sunrisers Hyderabad,KS Williamson,11,KS Williamson,28.82,131.54
+2020.0,Sunrisers Hyderabad,MK Pandey,15,MK Pandey,28.33,121.43
+2020.0,Sunrisers Hyderabad,PK Garg,10,PK Garg,13.3,114.66
+2020.0,Sunrisers Hyderabad,Rashid Khan,6,Rashid Khan,5.83,109.38
+2020.0,Sunrisers Hyderabad,Sandeep Sharma,5,Sandeep Sharma,2.4,80.0
+2020.0,Sunrisers Hyderabad,V Shankar,5,V Shankar,19.4,97.98
+2020.0,Sunrisers Hyderabad,WP Saha,4,WP Saha,53.5,134.59
+2021.0,Chennai Super Kings,AT Rayudu,13,AT Rayudu,19.77,146.86
+2021.0,Chennai Super Kings,DJ Bravo,3,DJ Bravo,15.67,213.64
+2021.0,Chennai Super Kings,F du Plessis,16,F du Plessis,39.56,134.39
+2021.0,Chennai Super Kings,MM Ali,15,MM Ali,23.8,132.22
+2021.0,Chennai Super Kings,MS Dhoni,11,MS Dhoni,10.36,102.7
+2021.0,Chennai Super Kings,RA Jadeja,11,RA Jadeja,20.64,133.53
+2021.0,Chennai Super Kings,RD Gaikwad,16,RD Gaikwad,39.69,133.97
+2021.0,Chennai Super Kings,RV Uthappa,4,RV Uthappa,28.75,133.72
+2021.0,Chennai Super Kings,SK Raina,11,SK Raina,14.55,120.3
+2021.0,Chennai Super Kings,SM Curran,4,SM Curran,14.0,186.67
+2021.0,Chennai Super Kings,SN Thakur,4,SN Thakur,1.25,83.33
+2021.0,Delhi Capitals,AR Patel,6,AR Patel,6.67,76.92
+2021.0,Delhi Capitals,K Rabada,3,K Rabada,4.33,216.67
+2021.0,Delhi Capitals,Lalit Yadav,5,Lalit Yadav,13.6,90.67
+2021.0,Delhi Capitals,MP Stoinis,7,MP Stoinis,12.71,120.27
+2021.0,Delhi Capitals,PP Shaw,15,PP Shaw,31.93,155.52
+2021.0,Delhi Capitals,R Ashwin,5,R Ashwin,8.8,102.33
+2021.0,Delhi Capitals,RR Pant,16,RR Pant,26.5,123.62
+2021.0,Delhi Capitals,S Dhawan,16,S Dhawan,36.69,122.29
+2021.0,Delhi Capitals,SO Hetmyer,12,SO Hetmyer,20.17,158.17
+2021.0,Delhi Capitals,SPD Smith,7,SPD Smith,21.71,111.76
+2021.0,Delhi Capitals,SS Iyer,8,SS Iyer,21.88,96.69
+2021.0,Kolkata Knight Riders,AD Russell,8,AD Russell,22.88,144.09
+2021.0,Kolkata Knight Riders,EJG Morgan,15,EJG Morgan,8.87,93.66
+2021.0,Kolkata Knight Riders,KD Karthik,15,KD Karthik,14.87,129.65
+2021.0,Kolkata Knight Riders,N Rana,16,N Rana,23.94,117.85
+2021.0,Kolkata Knight Riders,PJ Cummins,5,PJ Cummins,18.6,155.0
+2021.0,Kolkata Knight Riders,RA Tripathi,16,RA Tripathi,24.81,139.3
+2021.0,Kolkata Knight Riders,SP Narine,10,SP Narine,6.2,121.57
+2021.0,Kolkata Knight Riders,Shakib Al Hasan,6,Shakib Al Hasan,7.83,94.0
+2021.0,Kolkata Knight Riders,Shubman Gill,17,Shubman Gill,28.12,115.18
+2021.0,Kolkata Knight Riders,VR Iyer,10,VR Iyer,37.0,123.75
+2021.0,Mumbai Indians,AF Milne,3,AF Milne,5.33,84.21
+2021.0,Mumbai Indians,HH Pandya,11,HH Pandya,11.55,109.48
+2021.0,Mumbai Indians,Ishan Kishan,10,Ishan Kishan,24.1,132.42
+2021.0,Mumbai Indians,JJ Bumrah,7,JJ Bumrah,2.29,94.12
+2021.0,Mumbai Indians,KA Pollard,13,KA Pollard,18.85,136.11
+2021.0,Mumbai Indians,KH Pandya,12,KH Pandya,11.92,113.49
+2021.0,Mumbai Indians,Q de Kock,11,Q de Kock,27.0,113.79
+2021.0,Mumbai Indians,RD Chahar,4,RD Chahar,3.5,93.33
+2021.0,Mumbai Indians,RG Sharma,13,RG Sharma,29.31,124.1
+2021.0,Mumbai Indians,SA Yadav,14,SA Yadav,22.64,140.27
+2021.0,Mumbai Indians,SS Tiwary,4,SS Tiwary,28.75,116.16
+2021.0,Punjab Kings,AK Markram,6,AK Markram,24.33,118.7
+2021.0,Punjab Kings,CH Gayle,10,CH Gayle,19.3,120.62
+2021.0,Punjab Kings,DJ Hooda,11,DJ Hooda,14.55,128.0
+2021.0,Punjab Kings,Harpreet Brar,5,Harpreet Brar,12.8,104.92
+2021.0,Punjab Kings,KL Rahul,13,KL Rahul,48.15,134.62
+2021.0,Punjab Kings,M Shahrukh Khan,10,M Shahrukh Khan,15.3,129.66
+2021.0,Punjab Kings,MA Agarwal,12,MA Agarwal,36.75,136.11
+2021.0,Punjab Kings,MC Henriques,4,MC Henriques,7.75,96.88
+2021.0,Punjab Kings,Mohammed Shami,3,Mohammed Shami,4.33,76.47
+2021.0,Punjab Kings,N Pooran,10,N Pooran,8.5,110.39
+2021.0,Rajasthan Royals,C Sakariya,5,C Sakariya,3.2,64.0
+2021.0,Rajasthan Royals,CH Morris,7,CH Morris,9.57,126.42
+2021.0,Rajasthan Royals,DA Miller,8,DA Miller,15.5,107.83
+2021.0,Rajasthan Royals,E Lewis,5,E Lewis,30.2,157.29
+2021.0,Rajasthan Royals,GD Phillips,3,GD Phillips,8.67,78.79
+2021.0,Rajasthan Royals,JC Buttler,7,JC Buttler,36.29,146.82
+2021.0,Rajasthan Royals,JD Unadkat,3,JD Unadkat,13.67,128.12
+2021.0,Rajasthan Royals,LS Livingstone,5,LS Livingstone,8.4,97.67
+2021.0,Rajasthan Royals,M Vohra,4,M Vohra,10.5,105.0
+2021.0,Rajasthan Royals,MK Lomror,4,MK Lomror,23.5,123.68
+2021.0,Rajasthan Royals,Mustafizur Rahman,3,Mustafizur Rahman,2.67,57.14
+2021.0,Rajasthan Royals,R Parag,10,R Parag,9.3,110.71
+2021.0,Rajasthan Royals,R Tewatia,11,R Tewatia,14.09,101.97
+2021.0,Rajasthan Royals,S Dube,9,S Dube,25.56,112.2
+2021.0,Rajasthan Royals,SV Samson,14,SV Samson,34.57,130.11
+2021.0,Rajasthan Royals,YBK Jaiswal,10,YBK Jaiswal,24.9,148.21
+2021.0,Royal Challengers Bangalore,AB de Villiers,14,AB de Villiers,22.36,145.58
+2021.0,Royal Challengers Bangalore,D Padikkal,14,D Padikkal,29.36,120.18
+2021.0,Royal Challengers Bangalore,DT Christian,7,DT Christian,2.0,58.33
+2021.0,Royal Challengers Bangalore,GJ Maxwell,14,GJ Maxwell,36.64,137.53
+2021.0,Royal Challengers Bangalore,HV Patel,7,HV Patel,8.43,122.92
+2021.0,Royal Challengers Bangalore,KA Jamieson,7,KA Jamieson,9.29,118.18
+2021.0,Royal Challengers Bangalore,KS Bharat,6,KS Bharat,31.83,118.63
+2021.0,Royal Challengers Bangalore,Mohammed Siraj,4,Mohammed Siraj,5.0,76.92
+2021.0,Royal Challengers Bangalore,RM Patidar,4,RM Patidar,17.75,109.23
+2021.0,Royal Challengers Bangalore,Shahbaz Ahmed,7,Shahbaz Ahmed,8.43,107.27
+2021.0,Royal Challengers Bangalore,V Kohli,15,V Kohli,27.0,116.71
+2021.0,Royal Challengers Bangalore,Washington Sundar,4,Washington Sundar,7.75,64.58
+2021.0,Sunrisers Hyderabad,Abdul Samad,10,Abdul Samad,11.1,124.72
+2021.0,Sunrisers Hyderabad,Abhishek Sharma,7,Abhishek Sharma,14.0,125.64
+2021.0,Sunrisers Hyderabad,B Kumar,7,B Kumar,4.86,106.25
+2021.0,Sunrisers Hyderabad,DA Warner,8,DA Warner,24.62,103.14
+2021.0,Sunrisers Hyderabad,JJ Roy,5,JJ Roy,30.0,120.0
+2021.0,Sunrisers Hyderabad,JM Bairstow,7,JM Bairstow,35.43,138.55
+2021.0,Sunrisers Hyderabad,JO Holder,7,JO Holder,12.14,116.44
+2021.0,Sunrisers Hyderabad,KM Jadhav,5,KM Jadhav,11.0,100.0
+2021.0,Sunrisers Hyderabad,KS Williamson,10,KS Williamson,27.0,108.0
+2021.0,Sunrisers Hyderabad,MK Pandey,8,MK Pandey,36.5,118.7
+2021.0,Sunrisers Hyderabad,Mohammad Nabi,3,Mohammad Nabi,11.33,154.55
+2021.0,Sunrisers Hyderabad,PK Garg,5,PK Garg,14.4,96.0
+2021.0,Sunrisers Hyderabad,Rashid Khan,10,Rashid Khan,8.3,116.9
+2021.0,Sunrisers Hyderabad,V Shankar,5,V Shankar,11.6,111.54
+2021.0,Sunrisers Hyderabad,WP Saha,9,WP Saha,14.56,90.97
+2022.0,Chennai Super Kings,AT Rayudu,11,AT Rayudu,24.91,119.13
+2022.0,Chennai Super Kings,D Pretorius,5,D Pretorius,8.8,157.14
+2022.0,Chennai Super Kings,DJ Bravo,6,DJ Bravo,3.83,88.46
+2022.0,Chennai Super Kings,DP Conway,7,DP Conway,36.0,143.18
+2022.0,Chennai Super Kings,MJ Santner,4,MJ Santner,5.5,73.33
+2022.0,Chennai Super Kings,MM Ali,10,MM Ali,24.4,133.33
+2022.0,Chennai Super Kings,MS Dhoni,12,MS Dhoni,19.33,117.17
+2022.0,Chennai Super Kings,RA Jadeja,10,RA Jadeja,11.6,110.48
+2022.0,Chennai Super Kings,RD Gaikwad,14,RD Gaikwad,26.29,123.49
+2022.0,Chennai Super Kings,RV Uthappa,11,RV Uthappa,20.91,127.07
+2022.0,Chennai Super Kings,S Dube,11,S Dube,26.27,148.97
+2022.0,Chennai Super Kings,Simarjeet Singh,3,Simarjeet Singh,2.33,87.5
+2022.0,Delhi Capitals,AR Patel,10,AR Patel,18.2,149.18
+2022.0,Delhi Capitals,DA Warner,12,DA Warner,36.0,143.52
+2022.0,Delhi Capitals,Kuldeep Yadav,7,Kuldeep Yadav,6.86,88.89
+2022.0,Delhi Capitals,Lalit Yadav,8,Lalit Yadav,20.12,105.92
+2022.0,Delhi Capitals,MR Marsh,8,MR Marsh,31.38,130.73
+2022.0,Delhi Capitals,Mandeep Singh,3,Mandeep Singh,6.0,75.0
+2022.0,Delhi Capitals,PP Shaw,10,PP Shaw,28.3,146.63
+2022.0,Delhi Capitals,R Powell,12,R Powell,20.83,143.68
+2022.0,Delhi Capitals,RR Pant,13,RR Pant,26.15,145.3
+2022.0,Delhi Capitals,SN Khan,5,SN Khan,18.2,131.88
+2022.0,Delhi Capitals,SN Thakur,10,SN Thakur,12.0,133.33
+2022.0,Gujarat Titans,A Manohar,7,A Manohar,15.43,136.71
+2022.0,Gujarat Titans,AS Joseph,3,AS Joseph,1.67,71.43
+2022.0,Gujarat Titans,B Sai Sudharsan,5,B Sai Sudharsan,29.0,122.88
+2022.0,Gujarat Titans,DA Miller,16,DA Miller,30.06,138.22
+2022.0,Gujarat Titans,HH Pandya,15,HH Pandya,32.47,125.84
+2022.0,Gujarat Titans,MS Wade,10,MS Wade,15.7,108.28
+2022.0,Gujarat Titans,R Tewatia,12,R Tewatia,18.08,139.1
+2022.0,Gujarat Titans,Rashid Khan,8,Rashid Khan,11.38,206.82
+2022.0,Gujarat Titans,Shubman Gill,16,Shubman Gill,30.19,129.14
+2022.0,Gujarat Titans,V Shankar,4,V Shankar,4.75,52.78
+2022.0,Gujarat Titans,WP Saha,11,WP Saha,28.82,119.17
+2022.0,Kolkata Knight Riders,AD Russell,12,AD Russell,27.92,167.5
+2022.0,Kolkata Knight Riders,AJ Finch,5,AJ Finch,17.2,122.86
+2022.0,Kolkata Knight Riders,AM Rahane,7,AM Rahane,19.0,101.53
+2022.0,Kolkata Knight Riders,B Indrajith,3,B Indrajith,7.0,67.74
+2022.0,Kolkata Knight Riders,CV Varun,3,CV Varun,4.0,66.67
+2022.0,Kolkata Knight Riders,N Rana,14,N Rana,25.79,139.38
+2022.0,Kolkata Knight Riders,PJ Cummins,5,PJ Cummins,12.6,262.5
+2022.0,Kolkata Knight Riders,RK Singh,7,RK Singh,24.86,139.2
+2022.0,Kolkata Knight Riders,SP Jackson,5,SP Jackson,4.6,88.46
+2022.0,Kolkata Knight Riders,SP Narine,9,SP Narine,7.89,177.5
+2022.0,Kolkata Knight Riders,SS Iyer,14,SS Iyer,28.64,129.35
+2022.0,Kolkata Knight Riders,SW Billings,8,SW Billings,21.12,118.18
+2022.0,Kolkata Knight Riders,Shivam Mavi,3,Shivam Mavi,1.0,37.5
+2022.0,Kolkata Knight Riders,TG Southee,5,TG Southee,0.4,16.67
+2022.0,Kolkata Knight Riders,UT Yadav,7,UT Yadav,7.86,134.15
+2022.0,Kolkata Knight Riders,VR Iyer,12,VR Iyer,15.17,104.0
+2022.0,Lucknow Super Giants,A Badoni,11,A Badoni,14.64,115.83
+2022.0,Lucknow Super Giants,Avesh Khan,4,Avesh Khan,5.5,169.23
+2022.0,Lucknow Super Giants,DJ Hooda,14,DJ Hooda,32.21,132.65
+2022.0,Lucknow Super Giants,E Lewis,5,E Lewis,14.6,121.67
+2022.0,Lucknow Super Giants,JO Holder,8,JO Holder,7.25,126.09
+2022.0,Lucknow Super Giants,KH Pandya,13,KH Pandya,14.08,122.0
+2022.0,Lucknow Super Giants,KL Rahul,14,KL Rahul,44.0,130.51
+2022.0,Lucknow Super Giants,MK Pandey,6,MK Pandey,14.67,104.76
+2022.0,Lucknow Super Giants,MP Stoinis,10,MP Stoinis,15.6,134.48
+2022.0,Lucknow Super Giants,Mohsin Khan,3,Mohsin Khan,7.67,121.05
+2022.0,Lucknow Super Giants,PVD Chameera,7,PVD Chameera,6.14,134.38
+2022.0,Lucknow Super Giants,Q de Kock,15,Q de Kock,33.87,145.14
+2022.0,Mumbai Indians,D Brevis,7,D Brevis,23.0,138.79
+2022.0,Mumbai Indians,DR Sams,10,DR Sams,3.8,95.0
+2022.0,Mumbai Indians,Ishan Kishan,14,Ishan Kishan,29.86,117.75
+2022.0,Mumbai Indians,JD Unadkat,5,JD Unadkat,11.8,159.46
+2022.0,Mumbai Indians,JJ Bumrah,4,JJ Bumrah,0.0,0.0
+2022.0,Mumbai Indians,KA Pollard,11,KA Pollard,13.09,98.63
+2022.0,Mumbai Indians,M Ashwin,4,M Ashwin,3.0,85.71
+2022.0,Mumbai Indians,RG Sharma,14,RG Sharma,19.14,114.53
+2022.0,Mumbai Indians,Ramandeep Singh,4,Ramandeep Singh,11.25,107.14
+2022.0,Mumbai Indians,SA Yadav,8,SA Yadav,37.88,144.29
+2022.0,Mumbai Indians,TH David,8,TH David,23.25,204.4
+2022.0,Mumbai Indians,Tilak Varma,14,Tilak Varma,28.36,126.84
+2022.0,Punjab Kings,Arshdeep Singh,6,Arshdeep Singh,3.5,70.0
+2022.0,Punjab Kings,Harpreet Brar,3,Harpreet Brar,7.33,88.0
+2022.0,Punjab Kings,JM Bairstow,11,JM Bairstow,23.0,140.56
+2022.0,Punjab Kings,JM Sharma,10,JM Sharma,23.4,157.05
+2022.0,Punjab Kings,K Rabada,7,K Rabada,6.86,102.13
+2022.0,Punjab Kings,LS Livingstone,14,LS Livingstone,31.21,167.43
+2022.0,Punjab Kings,M Shahrukh Khan,8,M Shahrukh Khan,14.62,99.15
+2022.0,Punjab Kings,MA Agarwal,12,MA Agarwal,16.33,117.37
+2022.0,Punjab Kings,OF Smith,6,OF Smith,8.5,102.0
+2022.0,Punjab Kings,PBB Rajapaksa,9,PBB Rajapaksa,22.89,150.36
+2022.0,Punjab Kings,R Dhawan,4,R Dhawan,9.25,90.24
+2022.0,Punjab Kings,RD Chahar,8,RD Chahar,9.62,110.0
+2022.0,Punjab Kings,S Dhawan,14,S Dhawan,32.86,116.46
+2022.0,Punjab Kings,VG Arora,4,VG Arora,1.25,35.71
+2022.0,Rajasthan Royals,D Padikkal,17,D Padikkal,22.12,118.61
+2022.0,Rajasthan Royals,HE van der Dussen,3,HE van der Dussen,7.33,88.0
+2022.0,Rajasthan Royals,JC Buttler,17,JC Buttler,50.76,144.8
+2022.0,Rajasthan Royals,R Ashwin,12,R Ashwin,15.92,136.43
+2022.0,Rajasthan Royals,R Parag,14,R Parag,13.07,134.56
+2022.0,Rajasthan Royals,SO Hetmyer,15,SO Hetmyer,20.93,142.08
+2022.0,Rajasthan Royals,SV Samson,17,SV Samson,26.94,142.68
+2022.0,Rajasthan Royals,TA Boult,7,TA Boult,5.71,133.33
+2022.0,Rajasthan Royals,YBK Jaiswal,10,YBK Jaiswal,25.8,130.3
+2022.0,Royal Challengers Bangalore,Anuj Rawat,8,Anuj Rawat,16.12,104.88
+2022.0,Royal Challengers Bangalore,F du Plessis,16,F du Plessis,29.25,124.14
+2022.0,Royal Challengers Bangalore,GJ Maxwell,13,GJ Maxwell,23.15,163.59
+2022.0,Royal Challengers Bangalore,HV Patel,7,HV Patel,6.14,102.38
+2022.0,Royal Challengers Bangalore,JR Hazlewood,5,JR Hazlewood,3.6,66.67
+2022.0,Royal Challengers Bangalore,KD Karthik,16,KD Karthik,20.62,175.53
+2022.0,Royal Challengers Bangalore,MK Lomror,5,MK Lomror,17.2,143.33
+2022.0,Royal Challengers Bangalore,Mohammed Siraj,4,Mohammed Siraj,7.5,90.91
+2022.0,Royal Challengers Bangalore,PWH de Silva,7,PWH de Silva,5.43,79.17
+2022.0,Royal Challengers Bangalore,RM Patidar,7,RM Patidar,47.57,143.53
+2022.0,Royal Challengers Bangalore,SS Prabhudessai,5,SS Prabhudessai,13.4,108.06
+2022.0,Royal Challengers Bangalore,Shahbaz Ahmed,11,Shahbaz Ahmed,19.91,111.17
+2022.0,Royal Challengers Bangalore,V Kohli,16,V Kohli,21.31,111.44
+2022.0,Sunrisers Hyderabad,AK Markram,12,AK Markram,31.75,137.55
+2022.0,Sunrisers Hyderabad,Abhishek Sharma,14,Abhishek Sharma,30.43,129.48
+2022.0,Sunrisers Hyderabad,B Kumar,6,B Kumar,4.0,85.71
+2022.0,Sunrisers Hyderabad,KS Williamson,12,KS Williamson,18.0,91.91
+2022.0,Sunrisers Hyderabad,N Pooran,13,N Pooran,23.54,134.21
+2022.0,Sunrisers Hyderabad,R Shepherd,3,R Shepherd,19.33,134.88
+2022.0,Sunrisers Hyderabad,RA Tripathi,14,RA Tripathi,29.5,152.4
+2022.0,Sunrisers Hyderabad,Shashank Singh,5,Shashank Singh,13.8,146.81
+2022.0,Sunrisers Hyderabad,Umran Malik,4,Umran Malik,1.0,50.0
+2022.0,Sunrisers Hyderabad,Washington Sundar,7,Washington Sundar,14.43,132.89
+2023.0,Chennai Super Kings,AM Rahane,11,AM Rahane,29.64,168.91
+2023.0,Chennai Super Kings,AT Rayudu,12,AT Rayudu,13.17,137.39
+2023.0,Chennai Super Kings,DP Conway,15,DP Conway,44.8,136.31
+2023.0,Chennai Super Kings,MM Ali,10,MM Ali,12.4,134.78
+2023.0,Chennai Super Kings,MS Dhoni,12,MS Dhoni,8.67,165.08
+2023.0,Chennai Super Kings,RA Jadeja,12,RA Jadeja,15.83,137.68
+2023.0,Chennai Super Kings,RD Gaikwad,15,RD Gaikwad,39.33,143.55
+2023.0,Chennai Super Kings,S Dube,14,S Dube,29.86,150.9
+2023.0,Delhi Capitals,A Nortje,7,A Nortje,5.29,127.59
+2023.0,Delhi Capitals,AR Patel,13,AR Patel,21.77,131.02
+2023.0,Delhi Capitals,Abishek Porel,4,Abishek Porel,8.25,106.45
+2023.0,Delhi Capitals,Aman Hakim Khan,9,Aman Hakim Khan,12.22,103.77
+2023.0,Delhi Capitals,DA Warner,14,DA Warner,36.86,127.09
+2023.0,Delhi Capitals,Kuldeep Yadav,10,Kuldeep Yadav,3.1,62.0
+2023.0,Delhi Capitals,Lalit Yadav,6,Lalit Yadav,11.0,106.45
+2023.0,Delhi Capitals,MK Pandey,9,MK Pandey,17.78,107.38
+2023.0,Delhi Capitals,MR Marsh,9,MR Marsh,14.22,131.96
+2023.0,Delhi Capitals,Mukesh Kumar,3,Mukesh Kumar,2.33,70.0
+2023.0,Delhi Capitals,PD Salt,9,PD Salt,24.22,161.48
+2023.0,Delhi Capitals,PP Shaw,8,PP Shaw,13.25,117.78
+2023.0,Delhi Capitals,R Powell,3,R Powell,2.33,77.78
+2023.0,Delhi Capitals,RR Rossouw,9,RR Rossouw,23.22,141.22
+2023.0,Delhi Capitals,RV Patel,4,RV Patel,12.25,111.36
+2023.0,Delhi Capitals,SN Khan,4,SN Khan,13.25,85.48
+2023.0,Delhi Capitals,YV Dhull,3,YV Dhull,5.33,69.57
+2023.0,Gujarat Titans,A Manohar,6,A Manohar,19.0,132.56
+2023.0,Gujarat Titans,B Sai Sudharsan,8,B Sai Sudharsan,45.25,137.12
+2023.0,Gujarat Titans,DA Miller,13,DA Miller,19.92,140.76
+2023.0,Gujarat Titans,HH Pandya,15,HH Pandya,23.07,136.22
+2023.0,Gujarat Titans,MD Shanaka,3,MD Shanaka,8.67,100.0
+2023.0,Gujarat Titans,Noor Ahmad,3,Noor Ahmad,2.67,88.89
+2023.0,Gujarat Titans,R Tewatia,10,R Tewatia,8.7,142.62
+2023.0,Gujarat Titans,Rashid Khan,9,Rashid Khan,14.44,196.97
+2023.0,Gujarat Titans,Shubman Gill,17,Shubman Gill,52.35,152.92
+2023.0,Gujarat Titans,V Shankar,10,V Shankar,30.1,151.26
+2023.0,Gujarat Titans,WP Saha,17,WP Saha,21.82,124.92
+2023.0,Kolkata Knight Riders,AD Russell,14,AD Russell,16.21,140.12
+2023.0,Kolkata Knight Riders,AS Roy,4,AS Roy,5.75,121.05
+2023.0,Kolkata Knight Riders,D Wiese,3,D Wiese,7.0,190.91
+2023.0,Kolkata Knight Riders,JJ Roy,8,JJ Roy,35.62,145.41
+2023.0,Kolkata Knight Riders,Mandeep Singh,3,Mandeep Singh,4.67,87.5
+2023.0,Kolkata Knight Riders,N Jagadeesan,6,N Jagadeesan,14.83,105.95
+2023.0,Kolkata Knight Riders,N Rana,14,N Rana,29.5,136.3
+2023.0,Kolkata Knight Riders,RK Singh,14,RK Singh,33.86,142.34
+2023.0,Kolkata Knight Riders,Rahmanullah Gurbaz,11,Rahmanullah Gurbaz,20.64,127.53
+2023.0,Kolkata Knight Riders,SN Thakur,9,SN Thakur,12.56,156.94
+2023.0,Kolkata Knight Riders,SP Narine,10,SP Narine,2.1,75.0
+2023.0,Kolkata Knight Riders,UT Yadav,5,UT Yadav,3.8,95.0
+2023.0,Kolkata Knight Riders,VR Iyer,14,VR Iyer,28.86,140.28
+2023.0,Lucknow Super Giants,A Badoni,11,A Badoni,16.27,118.54
+2023.0,Lucknow Super Giants,DJ Hooda,12,DJ Hooda,7.0,90.32
+2023.0,Lucknow Super Giants,K Gowtham,6,K Gowtham,10.0,146.34
+2023.0,Lucknow Super Giants,KH Pandya,13,KH Pandya,14.46,109.94
+2023.0,Lucknow Super Giants,KL Rahul,9,KL Rahul,30.44,110.93
+2023.0,Lucknow Super Giants,KR Mayers,12,KR Mayers,30.42,140.93
+2023.0,Lucknow Super Giants,MP Stoinis,14,MP Stoinis,28.71,145.13
+2023.0,Lucknow Super Giants,N Pooran,14,N Pooran,24.14,181.72
+2023.0,Lucknow Super Giants,Naveen-ul-Haq,3,Naveen-ul-Haq,5.33,72.73
+2023.0,Lucknow Super Giants,PN Mankad,4,PN Mankad,23.25,125.68
+2023.0,Lucknow Super Giants,Q de Kock,4,Q de Kock,35.75,138.83
+2023.0,Lucknow Super Giants,Ravi Bishnoi,7,Ravi Bishnoi,2.86,71.43
+2023.0,Mumbai Indians,Arshad Khan,3,Arshad Khan,6.0,120.0
+2023.0,Mumbai Indians,C Green,16,C Green,28.25,157.49
+2023.0,Mumbai Indians,HR Shokeen,3,HR Shokeen,7.67,121.05
+2023.0,Mumbai Indians,Ishan Kishan,15,Ishan Kishan,30.27,139.69
+2023.0,Mumbai Indians,N Wadhera,10,N Wadhera,24.1,140.94
+2023.0,Mumbai Indians,PP Chawla,4,PP Chawla,6.25,113.64
+2023.0,Mumbai Indians,RG Sharma,16,RG Sharma,20.75,128.68
+2023.0,Mumbai Indians,SA Yadav,16,SA Yadav,37.81,177.94
+2023.0,Mumbai Indians,TH David,15,TH David,15.4,149.03
+2023.0,Mumbai Indians,Tilak Varma,11,Tilak Varma,31.18,151.77
+2023.0,Mumbai Indians,Vishnu Vinod,3,Vishnu Vinod,12.33,115.62
+2023.0,Punjab Kings,Atharva Taide,7,Atharva Taide,26.57,136.76
+2023.0,Punjab Kings,Harpreet Brar,8,Harpreet Brar,6.5,123.81
+2023.0,Punjab Kings,Harpreet Singh,3,Harpreet Singh,25.33,128.81
+2023.0,Punjab Kings,JM Sharma,14,JM Sharma,22.07,150.73
+2023.0,Punjab Kings,LS Livingstone,9,LS Livingstone,31.0,159.43
+2023.0,Punjab Kings,M Shahrukh Khan,12,M Shahrukh Khan,13.0,156.0
+2023.0,Punjab Kings,MW Short,6,MW Short,19.5,118.18
+2023.0,Punjab Kings,P Simran Singh,14,P Simran Singh,25.57,146.12
+2023.0,Punjab Kings,PBB Rajapaksa,4,PBB Rajapaksa,17.75,110.94
+2023.0,Punjab Kings,S Dhawan,11,S Dhawan,33.91,135.64
+2023.0,Punjab Kings,SM Curran,13,SM Curran,21.23,129.58
+2023.0,Punjab Kings,Sikandar Raza,7,Sikandar Raza,19.86,133.65
+2023.0,Rajasthan Royals,A Zampa,3,A Zampa,3.33,58.82
+2023.0,Rajasthan Royals,D Padikkal,11,D Padikkal,23.73,126.7
+2023.0,Rajasthan Royals,Dhruv Jurel,11,Dhruv Jurel,13.82,163.44
+2023.0,Rajasthan Royals,JC Buttler,14,JC Buttler,28.0,131.54
+2023.0,Rajasthan Royals,JO Holder,3,JO Holder,4.0,100.0
+2023.0,Rajasthan Royals,R Ashwin,9,R Ashwin,7.44,121.82
+2023.0,Rajasthan Royals,R Parag,7,R Parag,11.14,114.71
+2023.0,Rajasthan Royals,SO Hetmyer,13,SO Hetmyer,23.0,145.85
+2023.0,Rajasthan Royals,SV Samson,14,SV Samson,25.86,150.83
+2023.0,Rajasthan Royals,TA Boult,4,TA Boult,4.0,94.12
+2023.0,Rajasthan Royals,YBK Jaiswal,14,YBK Jaiswal,44.64,157.43
+2023.0,Royal Challengers Bangalore,Anuj Rawat,7,Anuj Rawat,13.0,126.39
+2023.0,Royal Challengers Bangalore,DJ Willey,3,DJ Willey,11.67,109.38
+2023.0,Royal Challengers Bangalore,F du Plessis,14,F du Plessis,52.14,151.14
+2023.0,Royal Challengers Bangalore,GJ Maxwell,14,GJ Maxwell,28.57,177.78
+2023.0,Royal Challengers Bangalore,KD Karthik,13,KD Karthik,10.77,132.08
+2023.0,Royal Challengers Bangalore,MG Bracewell,4,MG Bracewell,14.5,118.37
+2023.0,Royal Challengers Bangalore,MK Lomror,10,MK Lomror,13.5,133.66
+2023.0,Royal Challengers Bangalore,PWH de Silva,5,PWH de Silva,6.6,110.0
+2023.0,Royal Challengers Bangalore,SS Prabhudessai,4,SS Prabhudessai,8.75,109.38
+2023.0,Royal Challengers Bangalore,Shahbaz Ahmed,6,Shahbaz Ahmed,7.0,102.44
+2023.0,Royal Challengers Bangalore,V Kohli,14,V Kohli,45.64,135.1
+2023.0,Sunrisers Hyderabad,AK Markram,13,AK Markram,19.08,124.0
+2023.0,Sunrisers Hyderabad,Abdul Samad,8,Abdul Samad,21.12,129.01
+2023.0,Sunrisers Hyderabad,Abhishek Sharma,11,Abhishek Sharma,20.55,136.14
+2023.0,Sunrisers Hyderabad,Anmolpreet Singh,4,Anmolpreet Singh,26.25,126.51
+2023.0,Sunrisers Hyderabad,B Kumar,5,B Kumar,8.4,85.71
+2023.0,Sunrisers Hyderabad,GD Phillips,5,GD Phillips,7.8,177.27
+2023.0,Sunrisers Hyderabad,H Klaasen,11,H Klaasen,40.73,170.99
+2023.0,Sunrisers Hyderabad,HC Brook,11,HC Brook,17.27,119.5
+2023.0,Sunrisers Hyderabad,M Jansen,6,M Jansen,6.5,86.67
+2023.0,Sunrisers Hyderabad,M Markande,3,M Markande,7.0,150.0
+2023.0,Sunrisers Hyderabad,MA Agarwal,10,MA Agarwal,27.0,123.29
+2023.0,Sunrisers Hyderabad,RA Tripathi,13,RA Tripathi,21.0,125.81
+2023.0,Sunrisers Hyderabad,Washington Sundar,5,Washington Sundar,12.0,96.77
+2024.0,Chennai Super Kings,AM Rahane,12,AM Rahane,20.17,121.0
+2024.0,Chennai Super Kings,DJ Mitchell,13,DJ Mitchell,24.46,139.47
+2024.0,Chennai Super Kings,MJ Santner,3,MJ Santner,4.67,77.78
+2024.0,Chennai Super Kings,MM Ali,5,MM Ali,25.6,121.9
+2024.0,Chennai Super Kings,MS Dhoni,11,MS Dhoni,14.64,196.34
+2024.0,Chennai Super Kings,R Ravindra,10,R Ravindra,22.2,152.05
+2024.0,Chennai Super Kings,RA Jadeja,11,RA Jadeja,24.27,139.79
+2024.0,Chennai Super Kings,RD Gaikwad,14,RD Gaikwad,41.64,137.18
+2024.0,Chennai Super Kings,S Dube,14,S Dube,28.29,152.9
+2024.0,Chennai Super Kings,SN Thakur,3,SN Thakur,7.0,116.67
+2024.0,Chennai Super Kings,Sameer Rizvi,5,Sameer Rizvi,10.2,118.6
+2024.0,Delhi Capitals,AR Patel,12,AR Patel,19.58,128.42
+2024.0,Delhi Capitals,Abishek Porel,12,Abishek Porel,27.25,153.52
+2024.0,Delhi Capitals,DA Warner,8,DA Warner,21.0,129.23
+2024.0,Delhi Capitals,J Fraser-McGurk,9,J Fraser-McGurk,36.67,220.0
+2024.0,Delhi Capitals,Kuldeep Yadav,5,Kuldeep Yadav,9.4,106.82
+2024.0,Delhi Capitals,Kumar Kushagra,3,Kumar Kushagra,1.0,42.86
+2024.0,Delhi Capitals,MR Marsh,4,MR Marsh,15.25,148.78
+2024.0,Delhi Capitals,PP Shaw,8,PP Shaw,24.75,158.4
+2024.0,Delhi Capitals,RR Pant,13,RR Pant,34.31,150.68
+2024.0,Delhi Capitals,Rasikh Salam,4,Rasikh Salam,7.0,93.33
+2024.0,Delhi Capitals,SD Hope,9,SD Hope,20.33,146.4
+2024.0,Delhi Capitals,Sumit Kumar,3,Sumit Kumar,6.0,69.23
+2024.0,Delhi Capitals,T Stubbs,13,T Stubbs,29.08,185.29
+2024.0,Gujarat Titans,Azmatullah Omarzai,4,Azmatullah Omarzai,10.5,123.53
+2024.0,Gujarat Titans,B Sai Sudharsan,12,B Sai Sudharsan,43.92,135.82
+2024.0,Gujarat Titans,DA Miller,9,DA Miller,23.33,140.94
+2024.0,Gujarat Titans,M Shahrukh Khan,7,M Shahrukh Khan,18.14,164.94
+2024.0,Gujarat Titans,R Tewatia,9,R Tewatia,20.89,135.25
+2024.0,Gujarat Titans,Rashid Khan,8,Rashid Khan,12.75,136.0
+2024.0,Gujarat Titans,SH Johnson,3,SH Johnson,2.0,85.71
+2024.0,Gujarat Titans,Shubman Gill,12,Shubman Gill,35.5,144.41
+2024.0,Gujarat Titans,V Shankar,7,V Shankar,11.86,110.67
+2024.0,Gujarat Titans,WP Saha,9,WP Saha,15.11,113.33
+2024.0,Kolkata Knight Riders,A Raghuvanshi,7,A Raghuvanshi,23.29,149.54
+2024.0,Kolkata Knight Riders,AD Russell,9,AD Russell,24.67,157.45
+2024.0,Kolkata Knight Riders,MA Starc,5,MA Starc,1.8,81.82
+2024.0,Kolkata Knight Riders,PD Salt,12,PD Salt,36.25,174.0
+2024.0,Kolkata Knight Riders,RK Singh,11,RK Singh,15.27,143.59
+2024.0,Kolkata Knight Riders,Ramandeep Singh,9,Ramandeep Singh,13.89,195.31
+2024.0,Kolkata Knight Riders,SP Narine,14,SP Narine,34.86,167.12
+2024.0,Kolkata Knight Riders,SS Iyer,14,SS Iyer,25.07,140.4
+2024.0,Kolkata Knight Riders,VR Iyer,13,VR Iyer,28.46,155.46
+2024.0,Lucknow Super Giants,A Badoni,12,A Badoni,19.58,130.56
+2024.0,Lucknow Super Giants,Arshad Khan,3,Arshad Khan,26.0,150.0
+2024.0,Lucknow Super Giants,D Padikkal,7,D Padikkal,5.43,63.33
+2024.0,Lucknow Super Giants,DJ Hooda,9,DJ Hooda,16.11,135.51
+2024.0,Lucknow Super Giants,KH Pandya,11,KH Pandya,12.09,118.75
+2024.0,Lucknow Super Giants,KL Rahul,14,KL Rahul,37.14,130.65
+2024.0,Lucknow Super Giants,MP Stoinis,14,MP Stoinis,27.71,142.65
+2024.0,Lucknow Super Giants,N Pooran,14,N Pooran,35.64,168.58
+2024.0,Lucknow Super Giants,Q de Kock,11,Q de Kock,22.73,128.87
+2024.0,Lucknow Super Giants,Ravi Bishnoi,3,Ravi Bishnoi,1.33,66.67
+2024.0,Mumbai Indians,D Brevis,3,D Brevis,23.0,115.0
+2024.0,Mumbai Indians,G Coetzee,5,G Coetzee,2.8,63.64
+2024.0,Mumbai Indians,HH Pandya,13,HH Pandya,16.62,140.26
+2024.0,Mumbai Indians,Ishan Kishan,14,Ishan Kishan,22.86,144.14
+2024.0,Mumbai Indians,JJ Bumrah,4,JJ Bumrah,3.0,100.0
+2024.0,Mumbai Indians,Mohammad Nabi,5,Mohammad Nabi,7.0,112.9
+2024.0,Mumbai Indians,N Wadhera,6,N Wadhera,18.17,121.11
+2024.0,Mumbai Indians,Naman Dhir,7,Naman Dhir,20.0,166.67
+2024.0,Mumbai Indians,PP Chawla,6,PP Chawla,2.5,100.0
+2024.0,Mumbai Indians,R Shepherd,5,R Shepherd,11.4,237.5
+2024.0,Mumbai Indians,RG Sharma,14,RG Sharma,29.79,142.32
+2024.0,Mumbai Indians,SA Yadav,11,SA Yadav,31.36,165.07
+2024.0,Mumbai Indians,TH David,11,TH David,21.91,143.45
+2024.0,Mumbai Indians,Tilak Varma,13,Tilak Varma,32.0,142.96
+2024.0,Punjab Kings,Ashutosh Sharma,9,Ashutosh Sharma,21.0,160.17
+2024.0,Punjab Kings,HV Patel,4,HV Patel,3.25,68.42
+2024.0,Punjab Kings,Harpreet Brar,7,Harpreet Brar,10.71,127.12
+2024.0,Punjab Kings,JM Bairstow,11,JM Bairstow,27.09,151.27
+2024.0,Punjab Kings,JM Sharma,12,JM Sharma,15.58,127.21
+2024.0,Punjab Kings,K Rabada,3,K Rabada,6.67,117.65
+2024.0,Punjab Kings,LS Livingstone,7,LS Livingstone,15.86,135.37
+2024.0,Punjab Kings,P Simran Singh,14,P Simran Singh,23.86,154.63
+2024.0,Punjab Kings,RR Rossouw,8,RR Rossouw,26.38,172.95
+2024.0,Punjab Kings,S Dhawan,5,S Dhawan,30.4,121.6
+2024.0,Punjab Kings,SM Curran,12,SM Curran,22.5,117.39
+2024.0,Punjab Kings,Shashank Singh,14,Shashank Singh,25.29,157.33
+2024.0,Rajasthan Royals,Dhruv Jurel,11,Dhruv Jurel,17.73,135.42
+2024.0,Rajasthan Royals,JC Buttler,11,JC Buttler,32.64,134.96
+2024.0,Rajasthan Royals,R Ashwin,8,R Ashwin,10.75,113.16
+2024.0,Rajasthan Royals,R Parag,14,R Parag,40.93,140.79
+2024.0,Rajasthan Royals,R Powell,7,R Powell,14.71,145.07
+2024.0,Rajasthan Royals,SB Dubey,3,SB Dubey,11.0,157.14
+2024.0,Rajasthan Royals,SO Hetmyer,9,SO Hetmyer,12.56,156.94
+2024.0,Rajasthan Royals,SV Samson,15,SV Samson,35.4,144.69
+2024.0,Rajasthan Royals,T Kohler-Cadmore,3,T Kohler-Cadmore,16.0,88.89
+2024.0,Rajasthan Royals,TA Boult,4,TA Boult,3.5,87.5
+2024.0,Rajasthan Royals,YBK Jaiswal,15,YBK Jaiswal,29.0,151.04
+2024.0,Royal Challengers Bengaluru,Anuj Rawat,5,Anuj Rawat,19.6,122.5
+2024.0,Royal Challengers Bengaluru,C Green,12,C Green,21.25,137.84
+2024.0,Royal Challengers Bengaluru,F du Plessis,15,F du Plessis,29.2,158.7
+2024.0,Royal Challengers Bengaluru,GJ Maxwell,9,GJ Maxwell,5.78,113.04
+2024.0,Royal Challengers Bengaluru,KD Karthik,13,KD Karthik,25.08,167.18
+2024.0,Royal Challengers Bengaluru,KV Sharma,3,KV Sharma,10.33,193.75
+2024.0,Royal Challengers Bengaluru,MK Lomror,10,MK Lomror,12.5,168.92
+2024.0,Royal Challengers Bengaluru,RM Patidar,13,RM Patidar,30.38,166.67
+2024.0,Royal Challengers Bengaluru,Saurav Chauhan,3,Saurav Chauhan,6.0,112.5
+2024.0,Royal Challengers Bengaluru,Swapnil Singh,5,Swapnil Singh,7.4,168.18
+2024.0,Royal Challengers Bengaluru,V Kohli,15,V Kohli,49.4,149.09
+2024.0,Royal Challengers Bengaluru,WG Jacks,8,WG Jacks,28.75,172.93
+2024.0,Sunrisers Hyderabad,AK Markram,11,AK Markram,20.0,117.65
+2024.0,Sunrisers Hyderabad,Abdul Samad,12,Abdul Samad,15.17,161.06
+2024.0,Sunrisers Hyderabad,Abhishek Sharma,16,Abhishek Sharma,30.25,195.16
+2024.0,Sunrisers Hyderabad,B Kumar,5,B Kumar,4.6,76.67
+2024.0,Sunrisers Hyderabad,H Klaasen,15,H Klaasen,31.93,163.48
+2024.0,Sunrisers Hyderabad,JD Unadkat,5,JD Unadkat,4.8,88.89
+2024.0,Sunrisers Hyderabad,MA Agarwal,4,MA Agarwal,16.0,108.47
+2024.0,Sunrisers Hyderabad,Nithish Kumar Reddy,11,Nithish Kumar Reddy,27.55,137.1
+2024.0,Sunrisers Hyderabad,PJ Cummins,10,PJ Cummins,13.6,137.37
+2024.0,Sunrisers Hyderabad,RA Tripathi,6,RA Tripathi,27.5,136.36
+2024.0,Sunrisers Hyderabad,Sanvir Singh,3,Sanvir Singh,4.67,107.69
+2024.0,Sunrisers Hyderabad,Shahbaz Ahmed,12,Shahbaz Ahmed,17.92,124.28
+2024.0,Sunrisers Hyderabad,TM Head,15,TM Head,37.8,184.69
+2025.0,Chennai Super Kings,A Kamboj,5,A Kamboj,2.8,107.69
+2025.0,Chennai Super Kings,A Mhatre,7,A Mhatre,34.29,183.21
+2025.0,Chennai Super Kings,D Brevis,6,D Brevis,37.5,174.42
+2025.0,Chennai Super Kings,DJ Hooda,5,DJ Hooda,6.2,72.09
+2025.0,Chennai Super Kings,DP Conway,6,DP Conway,26.0,124.8
+2025.0,Chennai Super Kings,MS Dhoni,13,MS Dhoni,15.08,127.27
+2025.0,Chennai Super Kings,Noor Ahmad,6,Noor Ahmad,1.17,41.18
+2025.0,Chennai Super Kings,R Ashwin,4,R Ashwin,8.25,110.0
+2025.0,Chennai Super Kings,R Ravindra,8,R Ravindra,23.88,125.66
+2025.0,Chennai Super Kings,RA Jadeja,14,RA Jadeja,21.5,131.44
+2025.0,Chennai Super Kings,RA Tripathi,5,RA Tripathi,11.0,96.49
+2025.0,Chennai Super Kings,RD Gaikwad,5,RD Gaikwad,24.4,148.78
+2025.0,Chennai Super Kings,S Dube,14,S Dube,25.5,123.53
+2025.0,Chennai Super Kings,SK Rasheed,5,SK Rasheed,14.2,105.97
+2025.0,Chennai Super Kings,SM Curran,5,SM Curran,22.8,129.55
+2025.0,Chennai Super Kings,Urvil Patel,3,Urvil Patel,22.67,200.0
+2025.0,Chennai Super Kings,V Shankar,5,V Shankar,23.6,124.21
+2025.0,Delhi Capitals,AR Patel,11,AR Patel,23.91,153.8
+2025.0,Delhi Capitals,Abishek Porel,13,Abishek Porel,23.15,143.33
+2025.0,Delhi Capitals,Ashutosh Sharma,9,Ashutosh Sharma,22.67,147.83
+2025.0,Delhi Capitals,F du Plessis,9,F du Plessis,22.44,118.82
+2025.0,Delhi Capitals,J Fraser-McGurk,6,J Fraser-McGurk,9.17,103.77
+2025.0,Delhi Capitals,KK Nair,8,KK Nair,24.75,162.3
+2025.0,Delhi Capitals,KL Rahul,13,KL Rahul,42.0,147.97
+2025.0,Delhi Capitals,Kuldeep Yadav,5,Kuldeep Yadav,3.6,112.5
+2025.0,Delhi Capitals,MA Starc,5,MA Starc,1.2,54.55
+2025.0,Delhi Capitals,PVD Chameera,3,PVD Chameera,3.33,71.43
+2025.0,Delhi Capitals,Sameer Rizvi,4,Sameer Rizvi,30.25,145.78
+2025.0,Delhi Capitals,T Stubbs,13,T Stubbs,23.54,150.74
+2025.0,Delhi Capitals,V Nigam,8,V Nigam,17.75,173.17
+2025.0,Gujarat Titans,Arshad Khan,4,Arshad Khan,5.75,100.0
+2025.0,Gujarat Titans,B Sai Sudharsan,15,B Sai Sudharsan,50.6,149.12
+2025.0,Gujarat Titans,JC Buttler,13,JC Buttler,41.38,159.64
+2025.0,Gujarat Titans,M Shahrukh Khan,11,M Shahrukh Khan,16.27,172.12
+2025.0,Gujarat Titans,R Sai Kishore,3,R Sai Kishore,1.67,50.0
+2025.0,Gujarat Titans,R Tewatia,11,R Tewatia,9.0,157.14
+2025.0,Gujarat Titans,Rashid Khan,8,Rashid Khan,5.0,125.0
+2025.0,Gujarat Titans,SE Rutherford,11,SE Rutherford,26.45,143.35
+2025.0,Gujarat Titans,Shubman Gill,15,Shubman Gill,43.33,149.43
+2025.0,Gujarat Titans,Washington Sundar,5,Washington Sundar,26.6,156.47
+2025.0,Kolkata Knight Riders,A Raghuvanshi,11,A Raghuvanshi,27.27,138.25
+2025.0,Kolkata Knight Riders,AD Russell,10,AD Russell,16.7,150.45
+2025.0,Kolkata Knight Riders,AM Rahane,12,AM Rahane,32.5,141.82
+2025.0,Kolkata Knight Riders,Harshit Rana,7,Harshit Rana,8.14,105.56
+2025.0,Kolkata Knight Riders,MK Pandey,3,MK Pandey,30.67,137.31
+2025.0,Kolkata Knight Riders,Q de Kock,8,Q de Kock,19.0,123.58
+2025.0,Kolkata Knight Riders,RK Singh,11,RK Singh,18.73,148.2
+2025.0,Kolkata Knight Riders,Rahmanullah Gurbaz,5,Rahmanullah Gurbaz,14.8,134.55
+2025.0,Kolkata Knight Riders,Ramandeep Singh,7,Ramandeep Singh,6.71,130.56
+2025.0,Kolkata Knight Riders,SP Narine,12,SP Narine,20.5,153.75
+2025.0,Kolkata Knight Riders,VR Iyer,7,VR Iyer,20.29,132.71
+2025.0,Lucknow Super Giants,A Badoni,11,A Badoni,29.91,140.0
+2025.0,Lucknow Super Giants,AK Markram,13,AK Markram,34.23,145.42
+2025.0,Lucknow Super Giants,Abdul Samad,12,Abdul Samad,13.67,167.35
+2025.0,Lucknow Super Giants,Avesh Khan,4,Avesh Khan,5.25,150.0
+2025.0,Lucknow Super Giants,DA Miller,10,DA Miller,15.3,123.39
+2025.0,Lucknow Super Giants,MR Marsh,13,MR Marsh,48.23,156.36
+2025.0,Lucknow Super Giants,N Pooran,14,N Pooran,37.43,180.69
+2025.0,Lucknow Super Giants,RR Pant,13,RR Pant,20.69,129.33
+2025.0,Lucknow Super Giants,SN Thakur,5,SN Thakur,3.6,120.0
+2025.0,Mumbai Indians,DL Chahar,4,DL Chahar,9.25,148.0
+2025.0,Mumbai Indians,HH Pandya,12,HH Pandya,18.67,151.35
+2025.0,Mumbai Indians,MJ Santner,8,MJ Santner,5.0,117.65
+2025.0,Mumbai Indians,Naman Dhir,12,Naman Dhir,21.0,177.46
+2025.0,Mumbai Indians,RD Rickelton,14,RD Rickelton,27.71,145.86
+2025.0,Mumbai Indians,RG Sharma,15,RG Sharma,27.87,143.15
+2025.0,Mumbai Indians,SA Yadav,16,SA Yadav,44.81,163.33
+2025.0,Mumbai Indians,Tilak Varma,13,Tilak Varma,26.38,132.43
+2025.0,Mumbai Indians,WG Jacks,11,WG Jacks,21.18,134.68
+2025.0,Punjab Kings,Azmatullah Omarzai,5,Azmatullah Omarzai,11.4,132.56
+2025.0,Punjab Kings,GJ Maxwell,6,GJ Maxwell,8.0,88.89
+2025.0,Punjab Kings,JP Inglis,11,JP Inglis,25.27,157.06
+2025.0,Punjab Kings,M Jansen,8,M Jansen,9.38,115.38
+2025.0,Punjab Kings,MP Stoinis,11,MP Stoinis,14.55,175.82
+2025.0,Punjab Kings,N Wadhera,15,N Wadhera,24.6,141.38
+2025.0,Punjab Kings,P Simran Singh,18,P Simran Singh,33.28,159.31
+2025.0,Punjab Kings,Priyansh Arya,18,Priyansh Arya,30.28,175.81
+2025.0,Punjab Kings,SS Iyer,17,SS Iyer,35.53,167.78
+2025.0,Punjab Kings,Shashank Singh,14,Shashank Singh,25.0,147.06
+2025.0,Punjab Kings,Suryansh Shedge,3,Suryansh Shedge,2.33,58.33
+2025.0,Rajasthan Royals,Dhruv Jurel,13,Dhruv Jurel,25.62,152.05
+2025.0,Rajasthan Royals,JC Archer,7,JC Archer,9.0,123.53
+2025.0,Rajasthan Royals,M Theekshana,4,M Theekshana,2.5,37.04
+2025.0,Rajasthan Royals,N Rana,11,N Rana,19.73,153.9
+2025.0,Rajasthan Royals,PWH de Silva,5,PWH de Silva,1.8,60.0
+2025.0,Rajasthan Royals,R Parag,14,R Parag,28.36,160.73
+2025.0,Rajasthan Royals,SB Dubey,8,SB Dubey,13.25,160.61
+2025.0,Rajasthan Royals,SO Hetmyer,13,SO Hetmyer,18.85,134.62
+2025.0,Rajasthan Royals,SV Samson,9,SV Samson,31.67,139.02
+2025.0,Rajasthan Royals,TU Deshpande,4,TU Deshpande,1.75,77.78
+2025.0,Rajasthan Royals,V Suryavanshi,7,V Suryavanshi,36.0,195.35
+2025.0,Rajasthan Royals,YBK Jaiswal,14,YBK Jaiswal,39.93,155.71
+2025.0,Royal Challengers Bengaluru,B Kumar,6,B Kumar,2.33,53.85
+2025.0,Royal Challengers Bengaluru,D Padikkal,10,D Padikkal,24.7,142.77
+2025.0,Royal Challengers Bengaluru,JM Sharma,11,JM Sharma,23.73,168.39
+2025.0,Royal Challengers Bengaluru,KH Pandya,7,KH Pandya,15.57,122.47
+2025.0,Royal Challengers Bengaluru,LS Livingstone,8,LS Livingstone,14.0,124.44
+2025.0,Royal Challengers Bengaluru,MA Agarwal,4,MA Agarwal,23.75,146.15
+2025.0,Royal Challengers Bengaluru,PD Salt,13,PD Salt,31.0,169.33
+2025.0,Royal Challengers Bengaluru,R Shepherd,3,R Shepherd,23.33,280.0
+2025.0,Royal Challengers Bengaluru,RM Patidar,14,RM Patidar,22.29,138.67
+2025.0,Royal Challengers Bengaluru,TH David,9,TH David,20.78,174.77
+2025.0,Royal Challengers Bengaluru,V Kohli,15,V Kohli,43.8,140.99
+2025.0,Royal Challengers Bengaluru,Yash Dayal,3,Yash Dayal,1.33,50.0
+2025.0,Sunrisers Hyderabad,A Manohar,5,A Manohar,12.2,98.39
+2025.0,Sunrisers Hyderabad,Abhishek Sharma,13,Abhishek Sharma,33.77,181.4
+2025.0,Sunrisers Hyderabad,Aniket Verma,12,Aniket Verma,19.67,159.46
+2025.0,Sunrisers Hyderabad,H Klaasen,13,H Klaasen,37.46,165.65
+2025.0,Sunrisers Hyderabad,HV Patel,4,HV Patel,5.25,77.78
+2025.0,Sunrisers Hyderabad,Ishan Kishan,13,Ishan Kishan,27.23,143.9
+2025.0,Sunrisers Hyderabad,Mohammed Shami,4,Mohammed Shami,2.5,90.91
+2025.0,Sunrisers Hyderabad,Nithish Kumar Reddy,11,Nithish Kumar Reddy,16.55,113.04
+2025.0,Sunrisers Hyderabad,PHKD Mendis,5,PHKD Mendis,18.4,127.78
+2025.0,Sunrisers Hyderabad,PJ Cummins,9,PJ Cummins,10.78,167.24
+2025.0,Sunrisers Hyderabad,Simarjeet Singh,3,Simarjeet Singh,1.0,42.86
+2025.0,Sunrisers Hyderabad,TM Head,12,TM Head,31.17,150.81

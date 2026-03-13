@@ -1,0 +1,71 @@
+match_id,date,season,venue,city,match_type,toss_winner,toss_decision,winner,result_type,team1,team2,team1_won,predicted_winner,correct
+1473438,2025-03-22,2025,"Eden Gardens, Kolkata",Kolkata,Unknown,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,,Kolkata Knight Riders,Royal Challengers Bengaluru,0,Kolkata Knight Riders,False
+1473439,2025-03-23,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown,Rajasthan Royals,field,Sunrisers Hyderabad,,Sunrisers Hyderabad,Rajasthan Royals,1,Sunrisers Hyderabad,True
+1473440,2025-03-23,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown,Chennai Super Kings,field,Chennai Super Kings,,Mumbai Indians,Chennai Super Kings,0,Chennai Super Kings,True
+1473441,2025-03-24,2025,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Unknown,Delhi Capitals,field,Delhi Capitals,,Lucknow Super Giants,Delhi Capitals,0,Lucknow Super Giants,False
+1473442,2025-03-25,2025,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown,Gujarat Titans,field,Punjab Kings,,Punjab Kings,Gujarat Titans,1,Gujarat Titans,False
+1473443,2025-03-26,2025,"Barsapara Cricket Stadium, Guwahati",Guwahati,Unknown,Kolkata Knight Riders,field,Kolkata Knight Riders,,Rajasthan Royals,Kolkata Knight Riders,0,Rajasthan Royals,False
+1473444,2025-03-27,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown,Lucknow Super Giants,field,Lucknow Super Giants,,Sunrisers Hyderabad,Lucknow Super Giants,0,Lucknow Super Giants,True
+1473445,2025-03-28,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown,Chennai Super Kings,field,Royal Challengers Bengaluru,,Royal Challengers Bengaluru,Chennai Super Kings,1,Chennai Super Kings,False
+1473446,2025-03-29,2025,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown,Mumbai Indians,field,Gujarat Titans,,Gujarat Titans,Mumbai Indians,1,Gujarat Titans,True
+1473447,2025-03-30,2025,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Unknown,Sunrisers Hyderabad,bat,Delhi Capitals,,Sunrisers Hyderabad,Delhi Capitals,0,Sunrisers Hyderabad,False
+1473448,2025-03-30,2025,"Barsapara Cricket Stadium, Guwahati",Guwahati,Unknown,Chennai Super Kings,field,Rajasthan Royals,,Rajasthan Royals,Chennai Super Kings,1,Chennai Super Kings,False
+1473449,2025-03-31,2025,"Wankhede Stadium, Mumbai",Mumbai,Unknown,Mumbai Indians,field,Mumbai Indians,,Kolkata Knight Riders,Mumbai Indians,0,Mumbai Indians,True
+1473450,2025-04-01,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown,Punjab Kings,field,Punjab Kings,,Lucknow Super Giants,Punjab Kings,0,Lucknow Super Giants,False
+1473451,2025-04-02,2025,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown,Gujarat Titans,field,Gujarat Titans,,Royal Challengers Bengaluru,Gujarat Titans,0,Gujarat Titans,True
+1473452,2025-04-03,2025,"Eden Gardens, Kolkata",Kolkata,Unknown,Sunrisers Hyderabad,field,Kolkata Knight Riders,,Kolkata Knight Riders,Sunrisers Hyderabad,1,Kolkata Knight Riders,True
+1473453,2025-04-04,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown,Mumbai Indians,field,Lucknow Super Giants,,Lucknow Super Giants,Mumbai Indians,1,Lucknow Super Giants,True
+1473455,2025-04-05,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Unknown,Punjab Kings,field,Rajasthan Royals,,Rajasthan Royals,Punjab Kings,1,Rajasthan Royals,True
+1473454,2025-04-05,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown,Delhi Capitals,bat,Delhi Capitals,,Delhi Capitals,Chennai Super Kings,1,Chennai Super Kings,False
+1473457,2025-04-06,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown,Gujarat Titans,field,Gujarat Titans,,Sunrisers Hyderabad,Gujarat Titans,0,Sunrisers Hyderabad,False
+1473458,2025-04-07,2025,"Wankhede Stadium, Mumbai",Mumbai,Unknown,Mumbai Indians,field,Royal Challengers Bengaluru,,Royal Challengers Bengaluru,Mumbai Indians,1,Mumbai Indians,False
+1473456,2025-04-08,2025,"Eden Gardens, Kolkata",Kolkata,Unknown,Kolkata Knight Riders,field,Lucknow Super Giants,,Lucknow Super Giants,Kolkata Knight Riders,1,Lucknow Super Giants,True
+1473459,2025-04-08,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Unknown,Punjab Kings,bat,Punjab Kings,,Punjab Kings,Chennai Super Kings,1,Chennai Super Kings,False
+1473460,2025-04-09,2025,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown,Rajasthan Royals,field,Gujarat Titans,,Gujarat Titans,Rajasthan Royals,1,Gujarat Titans,True
+1473461,2025-04-10,2025,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown,Delhi Capitals,field,Delhi Capitals,,Royal Challengers Bengaluru,Delhi Capitals,0,Royal Challengers Bengaluru,False
+1473462,2025-04-11,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown,Kolkata Knight Riders,field,Kolkata Knight Riders,,Chennai Super Kings,Kolkata Knight Riders,0,Chennai Super Kings,False
+1473463,2025-04-12,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown,Lucknow Super Giants,field,Lucknow Super Giants,,Gujarat Titans,Lucknow Super Giants,0,Gujarat Titans,False
+1473464,2025-04-12,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown,Punjab Kings,bat,Sunrisers Hyderabad,,Punjab Kings,Sunrisers Hyderabad,0,Sunrisers Hyderabad,True
+1473465,2025-04-13,2025,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,,Rajasthan Royals,Royal Challengers Bengaluru,0,Royal Challengers Bengaluru,True
+1473466,2025-04-13,2025,"Arun Jaitley Stadium, Delhi",Delhi,Unknown,Delhi Capitals,field,Mumbai Indians,,Mumbai Indians,Delhi Capitals,1,Mumbai Indians,True
+1473467,2025-04-14,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown,Chennai Super Kings,field,Chennai Super Kings,,Lucknow Super Giants,Chennai Super Kings,0,Lucknow Super Giants,False
+1473468,2025-04-15,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Unknown,Punjab Kings,bat,Punjab Kings,,Punjab Kings,Kolkata Knight Riders,1,Kolkata Knight Riders,False
+1473470,2025-04-17,2025,"Wankhede Stadium, Mumbai",Mumbai,Unknown,Mumbai Indians,field,Mumbai Indians,,Sunrisers Hyderabad,Mumbai Indians,0,Sunrisers Hyderabad,False
+1473471,2025-04-18,2025,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown,Punjab Kings,field,Punjab Kings,,Royal Challengers Bengaluru,Punjab Kings,0,Royal Challengers Bengaluru,False
+1473473,2025-04-19,2025,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown,Lucknow Super Giants,bat,Lucknow Super Giants,,Lucknow Super Giants,Rajasthan Royals,1,Lucknow Super Giants,True
+1473472,2025-04-19,2025,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown,Gujarat Titans,field,Gujarat Titans,,Delhi Capitals,Gujarat Titans,0,Gujarat Titans,True
+1473474,2025-04-20,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Unknown,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,,Punjab Kings,Royal Challengers Bengaluru,0,Royal Challengers Bengaluru,True
+1473475,2025-04-20,2025,"Wankhede Stadium, Mumbai",Mumbai,Unknown,Mumbai Indians,field,Mumbai Indians,,Chennai Super Kings,Mumbai Indians,0,Chennai Super Kings,False
+1473476,2025-04-21,2025,"Eden Gardens, Kolkata",Kolkata,Unknown,Kolkata Knight Riders,field,Gujarat Titans,,Gujarat Titans,Kolkata Knight Riders,1,Gujarat Titans,True
+1473477,2025-04-22,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown,Delhi Capitals,field,Delhi Capitals,,Lucknow Super Giants,Delhi Capitals,0,Lucknow Super Giants,False
+1473478,2025-04-23,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown,Mumbai Indians,field,Mumbai Indians,,Sunrisers Hyderabad,Mumbai Indians,0,Sunrisers Hyderabad,False
+1473479,2025-04-24,2025,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown,Rajasthan Royals,field,Royal Challengers Bengaluru,,Royal Challengers Bengaluru,Rajasthan Royals,1,Royal Challengers Bengaluru,True
+1473480,2025-04-25,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,Chennai Super Kings,Sunrisers Hyderabad,0,Chennai Super Kings,False
+1473482,2025-04-27,2025,"Wankhede Stadium, Mumbai",Mumbai,Unknown,Lucknow Super Giants,field,Mumbai Indians,,Mumbai Indians,Lucknow Super Giants,1,Mumbai Indians,True
+1473483,2025-04-27,2025,"Arun Jaitley Stadium, Delhi",Delhi,Unknown,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,,Delhi Capitals,Royal Challengers Bengaluru,0,Royal Challengers Bengaluru,True
+1473484,2025-04-28,2025,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown,Rajasthan Royals,field,Rajasthan Royals,,Gujarat Titans,Rajasthan Royals,0,Gujarat Titans,False
+1473485,2025-04-29,2025,"Arun Jaitley Stadium, Delhi",Delhi,Unknown,Delhi Capitals,field,Kolkata Knight Riders,,Kolkata Knight Riders,Delhi Capitals,1,Kolkata Knight Riders,True
+1473486,2025-04-30,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown,Punjab Kings,field,Punjab Kings,,Chennai Super Kings,Punjab Kings,0,Chennai Super Kings,False
+1473487,2025-05-01,2025,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown,Rajasthan Royals,field,Mumbai Indians,,Mumbai Indians,Rajasthan Royals,1,Mumbai Indians,True
+1473488,2025-05-02,2025,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown,Sunrisers Hyderabad,field,Gujarat Titans,,Gujarat Titans,Sunrisers Hyderabad,1,Gujarat Titans,True
+1473489,2025-05-03,2025,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown,Chennai Super Kings,field,Royal Challengers Bengaluru,,Royal Challengers Bengaluru,Chennai Super Kings,1,Chennai Super Kings,False
+1473491,2025-05-04,2025,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Unknown,Lucknow Super Giants,field,Punjab Kings,,Punjab Kings,Lucknow Super Giants,1,Lucknow Super Giants,False
+1473490,2025-05-04,2025,"Eden Gardens, Kolkata",Kolkata,Unknown,Kolkata Knight Riders,bat,Kolkata Knight Riders,,Kolkata Knight Riders,Rajasthan Royals,1,Kolkata Knight Riders,True
+1473493,2025-05-06,2025,"Wankhede Stadium, Mumbai",Mumbai,Unknown,Gujarat Titans,field,Gujarat Titans,,Mumbai Indians,Gujarat Titans,0,Mumbai Indians,False
+1473494,2025-05-07,2025,"Eden Gardens, Kolkata",Kolkata,Unknown,Kolkata Knight Riders,bat,Chennai Super Kings,,Kolkata Knight Riders,Chennai Super Kings,0,Chennai Super Kings,True
+1473497,2025-05-18,2025,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown,Punjab Kings,bat,Punjab Kings,,Punjab Kings,Rajasthan Royals,1,Rajasthan Royals,False
+1473498,2025-05-18,2025,"Arun Jaitley Stadium, Delhi",Delhi,Unknown,Gujarat Titans,field,Gujarat Titans,,Delhi Capitals,Gujarat Titans,0,Gujarat Titans,True
+1473499,2025-05-19,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,Lucknow Super Giants,Sunrisers Hyderabad,0,Lucknow Super Giants,False
+1473500,2025-05-20,2025,"Arun Jaitley Stadium, Delhi",Delhi,Unknown,Rajasthan Royals,field,Rajasthan Royals,,Chennai Super Kings,Rajasthan Royals,0,Chennai Super Kings,False
+1473501,2025-05-21,2025,"Wankhede Stadium, Mumbai",Mumbai,Unknown,Delhi Capitals,field,Mumbai Indians,,Mumbai Indians,Delhi Capitals,1,Mumbai Indians,True
+1473502,2025-05-22,2025,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown,Gujarat Titans,field,Lucknow Super Giants,,Lucknow Super Giants,Gujarat Titans,1,Lucknow Super Giants,True
+1473503,2025-05-23,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown,Royal Challengers Bengaluru,field,Sunrisers Hyderabad,,Sunrisers Hyderabad,Royal Challengers Bengaluru,1,Sunrisers Hyderabad,True
+1485779,2025-05-24,2025,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown,Delhi Capitals,field,Delhi Capitals,,Punjab Kings,Delhi Capitals,0,Delhi Capitals,True
+1473505,2025-05-25,2025,"Arun Jaitley Stadium, Delhi",Delhi,Unknown,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,,Sunrisers Hyderabad,Kolkata Knight Riders,1,Sunrisers Hyderabad,True
+1473504,2025-05-25,2025,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown,Chennai Super Kings,bat,Chennai Super Kings,,Chennai Super Kings,Gujarat Titans,1,Chennai Super Kings,True
+1473506,2025-05-26,2025,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown,Punjab Kings,field,Punjab Kings,,Mumbai Indians,Punjab Kings,0,Mumbai Indians,False
+1473507,2025-05-27,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,,Lucknow Super Giants,Royal Challengers Bengaluru,0,Lucknow Super Giants,False
+1473508,2025-05-29,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",New Chandigarh,Qualifier 1,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,,Punjab Kings,Royal Challengers Bengaluru,0,Royal Challengers Bengaluru,True
+1473509,2025-05-30,2025,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",New Chandigarh,Eliminator,Mumbai Indians,bat,Mumbai Indians,,Mumbai Indians,Gujarat Titans,1,Mumbai Indians,True
+1473510,2025-06-01,2025,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Qualifier 2,Punjab Kings,field,Punjab Kings,,Mumbai Indians,Punjab Kings,0,Mumbai Indians,False
+1473511,2025-06-03,2025,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Final,Punjab Kings,field,Royal Challengers Bengaluru,,Royal Challengers Bengaluru,Punjab Kings,1,Royal Challengers Bengaluru,True
